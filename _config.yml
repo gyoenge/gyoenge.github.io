@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Huigyoeng Son # the website title (if blank, full name will be used instead)
+title: H. Son # the website title (if blank, full name will be used instead)
 first_name: Huigyoeng
 middle_name: 
 last_name: Son
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  E-mail: gyoeng94@gmail.com or gyoengist@gm.gist.ac.kr 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I'm an undergraduate student of GIST (2022-Present). I focus on AI and Computer Vision, particularly on extracting meaningful insights from medical image data.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: H. Son # blog_name will be displayed in your blog page
+blog_description: Personal studies related on Vision & Medical AI. 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
