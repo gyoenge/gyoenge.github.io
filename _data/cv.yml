@@ -29,7 +29,7 @@ cv:
         date: 2025
         courses: "Digital Signal Proscessing, Operating System, Database"
         highlights:
-          - (2025.06.-2025.12.) During Summer & Fall Semester. 
+          - (2025.06.-2025.12.) During Summer & Fall Semester.
 
       - institution: U.C. Berkeley, US
         location: Berkely, United States
@@ -40,7 +40,7 @@ cv:
         date: 2024
         courses: "Game Theory, Computational Models of Cognition"
         highlights:
-          - (2024.06.-2024.08.) During Summer Semester / Summer Session Program. 
+          - (2024.06.-2024.08.) During Summer Semester / Summer Session Program.
 
     Experience:
       - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
@@ -54,7 +54,7 @@ cv:
         position: Undergraduate Researcher Internship
         start_date: 2025-04
         end_date: 2025-08
-        summary: Downstream task of EpiAgent - epigenetic language encoder model.  
+        summary: Downstream task of EpiAgent - epigenetic language encoder model.
 
     Awards:
       - title: AI Foundational Data Application Contes
@@ -115,14 +115,13 @@ cv:
         awarder: GIST
         date: 2022-10
 
-
     Volunteer:
       - company: GIST
         position: TA, Multi Variable Calculus
         date: 2025
         # start_date: 2025-03
         # end_date: 2025-06
-      
+
       - company: GIST
         position: TA, Single Variable Calculus
         date: 2025
