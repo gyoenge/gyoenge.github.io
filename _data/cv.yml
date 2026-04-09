@@ -1,8 +1,8 @@
 cv:
   name: Huigyoeng Son
-  label: Student 
+  label: Student
   email: gyoeng94@gmail.com or gyoengist@gm.gist.ac.kr
-  location: Gwangju, KR (GIST) and Seoul, KR 
+  location: Gwangju, KR (GIST) and Seoul, KR
   image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
@@ -23,13 +23,13 @@ cv:
 
   sections:
     Education:
-      - institution: Gwangju Institute of Science and Technology 
+      - institution: Gwangju Institute of Science and Technology
         location: Gwangju, Korea
-        url: https://www.gist.ac.kr/en/main.html 
+        url: https://www.gist.ac.kr/en/main.html
         area: EECS(Electrical Engineering and Computer Science)
-        studyType: B.S. 
+        studyType: B.S.
         start_date: 2022
-        end_date: Present 
+        end_date: Present
         # score: ""
         # courses: "Theory of Relativity"
         # highlights:
@@ -47,10 +47,10 @@ cv:
       #     - Description 2.
 
     Experience:
-      - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab 
-        position: Undergraduate Researcher 
+      - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
+        position: Undergraduate Researcher
         # location: Princeton University, NJ
-        url: https://www.aimed-lab.com/ 
+        url: https://www.aimed-lab.com/
         start_date: 2025.09.
         end_date: Present
         summary: Spatially predicting gene expression from pathology images.
@@ -58,7 +58,7 @@ cv:
         #   - Relativity
         #   - Description 2.
 
-      - company: GIST DMCB(Data Mining and Computational Biology) Lab 
+      - company: GIST DMCB(Data Mining and Computational Biology) Lab
         position: Undergraduate Researcher
         # location: Pasadena, California, US
         start_date: 2025.04.
@@ -66,7 +66,6 @@ cv:
         # highlights:
         #   - Description 1.
         #   - Description 2.
-
 
     # Volunteer:
     #   - company: People's Climate March
@@ -90,27 +89,27 @@ cv:
         date: 2025.06.-2025.07.
         # awarder: German Physical Society
         # summary: Awarded for outstanding scientific achievement
-      
+
       - title: GIST, AI 4 Good Hackathon
-        date: 2024.03. 
-      
+        date: 2024.03.
+
       - title: MSIT, K-digital Net Challenge
-        date: 2023.05.-2023.11. 
+        date: 2023.05.-2023.11.
 
       - title: GIST, Creative Convergence Competition, Ping Pong Robot Division
         date: 2023.06.-2023.08.
-      
+
       - title: GIST, AI & IoT Makerton
         date: 2022.10.
 
     Honors:
       - title: GIST, Academic Excellence Scholorship
         start_date: 2022.09.
-        end_date: 2023.12. 
-      
+        end_date: 2023.12.
+
       - title: Korea, President’s Science Scholorship
         start_date: 2024.03.
-        end_date: Present. 
+        end_date: Present.
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -139,12 +138,12 @@ cv:
     #     icon: fa-solid fa-tag
     #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Teaching Assistants: 
+    Teaching Assistants:
       - title: Single Variable Calculus and Applications
-        date: 2024.03.-2024.06. 
-      
-      - title: Multi Variable Calculus and Applications 
-        date: 2025.03.-2025.06. 
+        date: 2024.03.-2024.06.
+
+      - title: Multi Variable Calculus and Applications
+        date: 2025.03.-2025.06.
 
     Certificates:
       - name: Linux Master (Level-II)
