@@ -3,8 +3,7 @@ cv:
   # label: Student
   email: gyoeng94@gmail.com # or gyoengist@gm.gist.ac.kr
   location: Gwangju(KR) & Seoul(KR)
-  summary: Undergraduate Student at GIST
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  # summary: Undergraduate Student at GIST
 
   sections:
     Education:
@@ -34,43 +33,54 @@ cv:
         start_date: 2025-04
         end_date: 2025-08
 
-    Awards & Honors:
-      - title: GongU Madang, AI Foundational Data Application Contes
+    Awards:
+      - company: GongU Madang
+        postition: AI Foundational Data Application Contes
         start_date: 2025-07
         end_date: 2025-09
 
-      - title: DACON, 2025 Samsung Collegiate Programming Challenge AI
+      - company: DACON
+        position: 2025 Samsung Collegiate Programming Challenge AI
         start_date: 2025-06
         end_date: 2025-07
 
-      - title: GIST, AI 4 Good Hackathon
+      - company: GIST
+        position: AI 4 Good Hackathon
         date: 2024-03
 
-      - title: MSIT, K-digital Net Challenge
+      - company: MSIT
+        position: K-digital Net Challenge
         start_date: 2023-05
         end_date: 2023-11
 
-      - title: GIST, Creative Convergence Competition, Ping Pong Robot Division
+      - company: GIST
+        position: Creative Convergence Competition, Ping Pong Robot Division
         start_date: 2023-06
         end_date: 2023-08
 
-      - title: GIST, AI & IoT Makerton
+      - company: GIST
+        position: AI & IoT Makerton
         date: 2022-10
 
-      - title: GIST, Academic Excellence Scholorship
+    Honors: 
+      - company: GIST
+        position: Academic Excellence Scholorship
         start_date: 2022-09
         end_date: 2023-12
 
-      - title: Korea, President’s Science Scholorship
+      - company: Korea
+        position: President’s Science Scholorship
         start_date: 2024-03
         end_date: present
 
     Teaching Experience:
-      - title: Awards & Honors
+      - company: GIST
+        position: TA, Single Variable Calculus 
         start_date: 2024-03
         end_date: 2024-06
 
-      - title: Multi Variable Calculus TA
+      - company: GIST
+        position: TA, Multi Variable Calculus 
         start_date: 2025-03
         end_date: 2025-06
 
