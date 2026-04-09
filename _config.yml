@@ -90,7 +90,7 @@ bing_site_verification: "" # your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: H. Son # blog_name will be displayed in your blog page
+blog_name: "" # blog_name will be displayed in your blog page
 blog_description: Personal studies related to Vision and Medical AI.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts

@@ -76,8 +76,7 @@ cv:
         # start_date: 2025-07
         # end_date: 2025-09
         date: 2025-09
-        summary: (Individual) 2nd prize. Prototype of photo kiosk, Korean Minhwa styled photo generator for foreign tourists. \
-          Trained Stable Diffusion XL model with LoRA, Textual Inversion, Dream Booth.
+        summary: (Individual) 2nd prize. Prototype of photo kiosk, Korean Minhwa styled photo generator for foreign tourists. Trained Stable Diffusion XL model with LoRA, Textual Inversion, Dream Booth.
 
       - title: 2025 Samsung Collegiate Programming Challenge AI
         authors:
