@@ -16,9 +16,8 @@ cv:
         end_date: present
         # score: ""
         # courses: "Theory of Relativity"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        highlights:
+          - Related Coursed: Compter Vision (A+), Machine Learning (A), Deep Learning (A)
 
       - institution: Korea University, KR
         location: Seoul, Korea
@@ -62,6 +61,13 @@ cv:
         end_date: 2025-02
         summary: Participated in a group study on spectral graph theory, supervised by Prof. M. Kim.
 
+    Volunteer:
+      - company: GIST
+        position: TA, Single & Multi Variable Calculus
+        start_date: 2024-03
+        end_date: 2025-06
+        summary: Teaching Assistant for Single & Multi Variable Calculus, supervised by Prof. M. Kim.
+
     Awards:
       - title: AI Foundational Data Application Contest
         authors:
@@ -70,6 +76,8 @@ cv:
         # start_date: 2025-07
         # end_date: 2025-09
         date: 2025-09
+        summary: (Individual) 2nd prize. Prototype of photo kiosk, Korean Minhwa styled photo generator for foreign tourists. \ 
+                  Trained Stable Diffusion XL model with LoRA, Textual Inversion, Dream Booth. 
 
       - title: 2025 Samsung Collegiate Programming Challenge AI
         authors:
@@ -78,6 +86,8 @@ cv:
         # start_date: 2025-06
         # end_date: 2025-07
         date: 2025-07
+        summary: (Individual) Ranked 18th in the preliminary round; participated in the main contest. Multi-modality for interpreting smart phone gallery everyday photos. \
+                  Trained BLIP2-flan-t5 model with LoRA. 
 
       - title: President’s Science Scholorship
         authors:
@@ -86,12 +96,15 @@ cv:
         # start_date: 2024-03
         # end_date: present
         date: 2024-03
+        summary: 2024.03. ~ . 
 
       - title: AI 4 Good Hackathon
         authors:
           - "GIST"
         awarder: GIST
         date: 2024-03
+        summary: (Team) 1st prize. Prototype of learning tool, converting PPT elements into a Braille pad for visually impaired. \ 
+                Trained PPT object detection model, utilizing AWS Rekognition Custom Labels. 
 
       - title: K-digital Net Challenge
         authors:
@@ -100,6 +113,7 @@ cv:
         # start_date: 2023-05
         # end_date: 2023-11
         date: 2023-11
+        summary: (Team) 2nd prize. Multi-modality for detecting dangerous objects in CCTV. Utilitzed grounding-DINO object detection model.
 
       - title: Creative Convergence Competition, Ping Pong Robot Division
         authors:
@@ -108,12 +122,14 @@ cv:
         # start_date: 2023-06
         # end_date: 2023-08
         date: 2023-08
+        summary: (Team) 2nd prize. Vision system of ping pong robot, detecting position of the ball. Utilized OpenCV library, Python multiprocessing. 
 
       - title: AI & IoT Makerton
         authors:
           - "GIST"
         awarder: GIST
         date: 2022-10
+        summary: (Team) 3rd prize. Classification of 7-segment display number from Arduino camera. Trained simple CNN network. 
 
       - title: Academic Excellence Scholorship
         authors:
@@ -122,12 +138,7 @@ cv:
         date: 2022-09
         # start_date: 2022-09
         # end_date: 2023-12
-
-    Volunteer:
-      - company: GIST
-        position: TA, Single & Multi Variable Calculus
-        start_date: 2024-03
-        end_date: 2025-06
+        summary: 2022.09. ~ 2023.12. 
 
     Certificates:
       - name: Linux Master II
