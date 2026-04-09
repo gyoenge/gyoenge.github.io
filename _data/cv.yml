@@ -49,55 +49,55 @@ cv:
 
     Awards:
       - title: AI Foundational Data Application Contes
-        authors: 
-          - "GongU Madang" 
+        authors:
+          - "GongU Madang"
         awarder: GongU Madang
         start_date: 2025-07
         end_date: 2025-09
 
       - title: 2025 Samsung Collegiate Programming Challenge AI
-        authors: 
-          - "DACON" 
+        authors:
+          - "DACON"
         awarder: DACON
         start_date: 2025-06
         end_date: 2025-07
 
       - title: AI 4 Good Hackathon
-        authors: 
-          - "GIST" 
+        authors:
+          - "GIST"
         awarder: GIST
         date: 2024-03
 
       - title: K-digital Net Challenge
-        authors: 
-          - "MSIT" 
+        authors:
+          - "MSIT"
         awarder: MSIT
         start_date: 2023-05
         end_date: 2023-11
 
       - title: Creative Convergence Competition, Ping Pong Robot Division
-        authors: 
-          - "GIST" 
+        authors:
+          - "GIST"
         awarder: GIST
         start_date: 2023-06
         end_date: 2023-08
 
       - title: AI & IoT Makerton
-        authors: 
+        authors:
           - "GIST"
         awarder: GIST
         date: 2022-10
 
     Honors:
       - title: Academic Excellence Scholorship
-        authors: 
-          - "GIST" 
+        authors:
+          - "GIST"
         awarder: GIST
         start_date: 2022-09
         end_date: 2023-12
 
       - title: President’s Science Scholorship
-        authors: 
+        authors:
           - "Korea"
         awarder: Korea
         start_date: 2024-03
