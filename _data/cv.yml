@@ -86,10 +86,10 @@ cv:
 
     Certificates:
       - name: Linux Master (Level-II)
-        date: 2018-01-01
+        date: 2025-00-00
 
       - name: SQLD (SQL Developer)
-        date: 2018-01-01
+        date: 2025-00-00
 
       - name: ADsP (Advanced Data Analytics Semi-Professional)
         date: 2025-03-21
