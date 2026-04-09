@@ -6,4 +6,28 @@ nav: false
 nav_order: 1
 ---
 
-Hi, I'm Huigyoeng Son.
+Hi, I'm Huigyoeng Son. Currently, I'm an undergraduate student at GIST (2022-Present).
+
+I focus on AI and Computer Vision, particularly on extracting meaningful insights from medical image data. As an undergraduate researcher at the GIST AI-MED Lab, I am working on the task of spatially predicting gene expression from pathology images.
+
+I really enjoy deeply exploring problems and understanding them at a fundamental level!
+
+**Research Interests**
+
+Computer Vision · Medical AI · Multimodal Learning · Explainable AI
+
+**Teck Stack**
+
+**AI / ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+**CV / Data**  
+OpenCV · Image Processing · Medical Data Processing
+
+<!-- OpenCV · Image Processing · Medical Data Processing (HDF5, AnnData, Parquet) -->
+
+**Others**  
+Linux · Docker · Git/GitHub
