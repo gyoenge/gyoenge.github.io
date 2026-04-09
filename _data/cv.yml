@@ -19,31 +19,31 @@ cv:
         # highlights:
         #   - Description 1.
         #   - Description 2.
-      
-      - institution: Korea University, KR 
+
+      - institution: Korea University, KR
         location: Seoul, Korea
-        studyType: Exchange Student 
+        studyType: Exchange Student
         start_date: 2025-06
-        end_date: 2025-12 
-        courses: "Digital Signal Proscessing, Operating System, Database" 
+        end_date: 2025-12
+        courses: "Digital Signal Proscessing, Operating System, Database"
 
       - institution: U.C. Berkeley, US
         location: Berkely, United States
-        studyType: Exchange Student 
+        studyType: Exchange Student
         start_date: 2024-06
-        end_date: 2024-08 
-        courses: "Game Theory, Computational Models of Cognition" 
+        end_date: 2024-08
+        courses: "Game Theory, Computational Models of Cognition"
 
     Experience:
       - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
-        position: Undergraduate Researcher Internship 
+        position: Undergraduate Researcher Internship
         url: https://www.aimed-lab.com/
         start_date: 2025-09
         end_date: present
         summary: Spatially predicting gene expression from pathology images.
 
       - company: GIST DMCB(Data Mining and Computational Biology) Lab
-        position: Undergraduate Researcher Internship 
+        position: Undergraduate Researcher Internship
         start_date: 2025-04
         end_date: 2025-08
 
@@ -62,7 +62,7 @@ cv:
 
       - title: AI 4 Good Hackathon
         authors: GIST
-        awarder: GIST 
+        awarder: GIST
         date: 2024-03
 
       - title: K-digital Net Challenge
@@ -73,25 +73,25 @@ cv:
 
       - title: Creative Convergence Competition, Ping Pong Robot Division
         authors: GIST
-        awarder: GIST 
+        awarder: GIST
         start_date: 2023-06
         end_date: 2023-08
 
       - title: AI & IoT Makerton
-        authors: GIST 
-        awarder: GIST 
+        authors: GIST
+        awarder: GIST
         date: 2022-10
 
     Honors:
       - title: Academic Excellence Scholorship
-        authors: GIST 
-        awarder: GIST 
+        authors: GIST
+        awarder: GIST
         start_date: 2022-09
         end_date: 2023-12
 
       - title: President’s Science Scholorship
-        authors: Korea 
-        awarder: Korea 
+        authors: Korea
+        awarder: Korea
         start_date: 2024-03
         end_date: present
 
