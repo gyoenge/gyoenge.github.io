@@ -4,6 +4,11 @@ title: about
 permalink: /
 nav: false
 nav_order: 1
+
+profile:
+  align: right
+  image: prof_pic_hson1.jpg
+  image_circular: true # crops the image to make it circular
 ---
 
 Hi, I'm Huigyoeng Son. Currently, I'm an undergraduate student at GIST (2022-Present).
