@@ -6,7 +6,6 @@ cv:
   summary: Undergraduate Student at GIST
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-
   sections:
     Education:
       - institution: Gwangju Institute of Science and Technology
@@ -21,7 +20,6 @@ cv:
         # highlights:
         #   - Description 1.
         #   - Description 2.
-
 
     Experience:
       - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
@@ -85,4 +83,3 @@ cv:
 
       - name: ADsP (Advanced Data Analytics Semi-Professional)
         date: 2025-03-21
-
