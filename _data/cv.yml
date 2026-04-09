@@ -1,7 +1,7 @@
 cv:
   name: Huigyoeng Son
   label: Student
-  email: gyoeng94@gmail.com or gyoengist@gm.gist.ac.kr
+  email: gyoeng94@gmail.com # or gyoengist@gm.gist.ac.kr
   location: Gwangju, KR (GIST) and Seoul, KR
   image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
@@ -29,7 +29,7 @@ cv:
         area: EECS(Electrical Engineering and Computer Science)
         studyType: B.S.
         start_date: 2022
-        end_date: Present
+        end_date: present
         # score: ""
         # courses: "Theory of Relativity"
         # highlights:
@@ -51,8 +51,8 @@ cv:
         position: Undergraduate Researcher
         # location: Princeton University, NJ
         url: https://www.aimed-lab.com/
-        start_date: 2025.09.
-        end_date: Present
+        start_date: 2025-09
+        end_date: present
         summary: Spatially predicting gene expression from pathology images.
         # highlights:
         #   - Relativity
@@ -61,8 +61,8 @@ cv:
       - company: GIST DMCB(Data Mining and Computational Biology) Lab
         position: Undergraduate Researcher
         # location: Pasadena, California, US
-        start_date: 2025.04.
-        end_date: 2025.08.
+        start_date: 2025-04
+        end_date: 2025-08
         # highlights:
         #   - Description 1.
         #   - Description 2.
@@ -80,36 +80,40 @@ cv:
 
     Awards:
       - title: GongU Madang, AI Foundational Data Application Contes
-        date: 2025.07.-2025.09.
+        start_date: 2025-07
+        end_date: 2025-09
         # awarder: Royal Swedish Academy of Sciences
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
       - title: DACON, 2025 Samsung Collegiate Programming Challenge AI
-        date: 2025.06.-2025.07.
+        start_date: 2025-06
+        end_date: 2025-07
         # awarder: German Physical Society
         # summary: Awarded for outstanding scientific achievement
 
       - title: GIST, AI 4 Good Hackathon
-        date: 2024.03.
+        date: 2024-03
 
       - title: MSIT, K-digital Net Challenge
-        date: 2023.05.-2023.11.
+        start_date: 2023-05
+        end_date: 2023-11
 
       - title: GIST, Creative Convergence Competition, Ping Pong Robot Division
-        date: 2023.06.-2023.08.
+        start_date: 2023-06
+        end_date: 2023-08
 
       - title: GIST, AI & IoT Makerton
-        date: 2022.10.
+        date: 2022-10
 
     Honors:
       - title: GIST, Academic Excellence Scholorship
-        start_date: 2022.09.
-        end_date: 2023.12.
+        start_date: 2022-09
+        end_date: 2023-12
 
       - title: Korea, President’s Science Scholorship
-        start_date: 2024.03.
-        end_date: Present.
+        start_date: 2024-03
+        end_date: present
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -140,10 +144,12 @@ cv:
 
     Teaching Assistants:
       - title: Single Variable Calculus and Applications
-        date: 2024.03.-2024.06.
+        start_date: 2024-03
+        end_date: 2024-06
 
       - title: Multi Variable Calculus and Applications
-        date: 2025.03.-2025.06.
+        start_date: 2025-03
+        end_date: 2025-06
 
     Certificates:
       - name: Linux Master (Level-II)
@@ -157,7 +163,7 @@ cv:
         # icon: fa-solid fa-tag
 
       - name: ADsP (Advanced Data Analytics Semi-Professional)
-        date: 2025.03.21.
+        date: 2025-03-21
         # issuer: Korea Data Agency
         # icon: fa-solid fa-envelope
 
