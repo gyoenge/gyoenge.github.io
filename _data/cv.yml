@@ -32,7 +32,7 @@ cv:
           - (2025.06.-2025.12.) During Summer & Fall Semester.
 
       - institution: U.C. Berkeley, US
-        location: Berkely, United States
+        location: Berkely, U.S.
         area: Computer Science
         studyType: Exchange Student
         start_date: 2024-06
@@ -57,13 +57,13 @@ cv:
         summary: Downstream task of EpiAgent - epigenetic language encoder model.
 
       - company: Group Study of Spectral Graph Theory
-        position: Group Study
+        position: Group Study Seminar 
         start_date: 2024-09
         end_date: 2025-02
         summary: Participated in a group study on spectral graph theory, supervised by Prof. M. Kim.
 
     Awards:
-      - title: AI Foundational Data Application Contes
+      - title: AI Foundational Data Application Contest
         authors:
           - "GongU Madang"
         awarder: GongU Madang
@@ -130,7 +130,7 @@ cv:
         end_date: 2025-06
 
     Certificates:
-      - name: Linux Master (Level-II)
+      - name: Linux Master II 
         date: 2026-01-02
 
       - name: SQLD (SQL Developer)
