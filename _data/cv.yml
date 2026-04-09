@@ -24,17 +24,23 @@ cv:
         location: Seoul, Korea
         area: Computer Science
         studyType: Exchange Student
-        start_date: 2025-06
-        end_date: 2025-12
+        # start_date: 2025-06
+        # end_date: 2025-12
+        date: 2025
         courses: "Digital Signal Proscessing, Operating System, Database"
+        highlights:
+          - (2025.06.-2025.12.) During Summer & Fall Semester. 
 
       - institution: U.C. Berkeley, US
         location: Berkely, United States
         area: Computer Science
         studyType: Exchange Student
-        start_date: 2024-06
-        end_date: 2024-08
+        # start_date: 2024-06
+        # end_date: 2024-08
+        date: 2024
         courses: "Game Theory, Computational Models of Cognition"
+        highlights:
+          - (2024.06.-2024.08.) During Summer Semester / Summer Session Program. 
 
     Experience:
       - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
@@ -48,55 +54,24 @@ cv:
         position: Undergraduate Researcher Internship
         start_date: 2025-04
         end_date: 2025-08
+        summary: Downstream task of EpiAgent - epigenetic language encoder model.  
 
     Awards:
       - title: AI Foundational Data Application Contes
         authors:
           - "GongU Madang"
         awarder: GongU Madang
-        start_date: 2025-07
-        end_date: 2025-09
+        # start_date: 2025-07
+        # end_date: 2025-09
+        date: 2025-09
 
       - title: 2025 Samsung Collegiate Programming Challenge AI
         authors:
           - "DACON"
         awarder: DACON
-        start_date: 2025-06
-        end_date: 2025-07
-
-      - title: AI 4 Good Hackathon
-        authors:
-          - "GIST"
-        awarder: GIST
-        date: 2024-03
-
-      - title: K-digital Net Challenge
-        authors:
-          - "MSIT"
-        awarder: MSIT
-        start_date: 2023-05
-        end_date: 2023-11
-
-      - title: Creative Convergence Competition, Ping Pong Robot Division
-        authors:
-          - "GIST"
-        awarder: GIST
-        start_date: 2023-06
-        end_date: 2023-08
-
-      - title: AI & IoT Makerton
-        authors:
-          - "GIST"
-        awarder: GIST
-        date: 2022-10
-
-    Honors:
-      - title: Academic Excellence Scholorship
-        authors:
-          - "GIST"
-        awarder: GIST
-        start_date: 2022-09
-        end_date: 2023-12
+        # start_date: 2025-06
+        # end_date: 2025-07
+        date: 2025-07
 
       - title: President’s Science Scholorship
         authors:
@@ -105,16 +80,54 @@ cv:
         start_date: 2024-03
         end_date: present
 
+      - title: AI 4 Good Hackathon
+        authors:
+          - "GIST"
+        awarder: GIST
+        date: 2024-03
+
+      - title: Academic Excellence Scholorship
+        authors:
+          - "GIST"
+        awarder: GIST
+        start_date: 2022-09
+        end_date: 2023-12
+
+      - title: K-digital Net Challenge
+        authors:
+          - "MSIT"
+        awarder: MSIT
+        # start_date: 2023-05
+        # end_date: 2023-11
+        date: 2023-11
+
+      - title: Creative Convergence Competition, Ping Pong Robot Division
+        authors:
+          - "GIST"
+        awarder: GIST
+        # start_date: 2023-06
+        # end_date: 2023-08
+        date: 2023-08
+
+      - title: AI & IoT Makerton
+        authors:
+          - "GIST"
+        awarder: GIST
+        date: 2022-10
+
+
     Volunteer:
       - company: GIST
-        position: TA, Single Variable Calculus
-        start_date: 2024-03
-        end_date: 2024-06
-
-      - company: GIST
         position: TA, Multi Variable Calculus
-        start_date: 2025-03
-        end_date: 2025-06
+        date: 2025
+        # start_date: 2025-03
+        # end_date: 2025-06
+      
+      - company: GIST
+        position: TA, Single Variable Calculus
+        date: 2025
+        # start_date: 2024-03
+        # end_date: 2024-06
 
     Certificates:
       - name: Linux Master (Level-II)
