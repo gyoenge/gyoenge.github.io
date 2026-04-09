@@ -1,25 +1,11 @@
 cv:
   name: Huigyoeng Son
-  label: Student
+  # label: Student
   email: gyoeng94@gmail.com # or gyoengist@gm.gist.ac.kr
-  location: Gwangju, KR (GIST) and Seoul, KR
-  image: ""
+  location: Gwangju(KR) & Seoul(KR)
+  summary: Undergraduate Student at GIST
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
-  #   - network: GitHub
-  #     username: example
-  #   - network: LinkedIn
-  #     username: example
-
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
 
   sections:
     Education:
@@ -36,61 +22,28 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      # - institution: Eidgenössische Technische Hochschule
-      #   location: Zurich, Switzerland
-      #   area: Physics
-      #   studyType: Federal teaching diploma
-      #   start_date: 1896
-      #   end_date: 1900
-      #   highlights:
-      #     - Description 1.
-      #     - Description 2.
 
     Experience:
       - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
         position: Undergraduate Researcher
-        # location: Princeton University, NJ
         url: https://www.aimed-lab.com/
         start_date: 2025-09
         end_date: present
         summary: Spatially predicting gene expression from pathology images.
-        # highlights:
-        #   - Relativity
-        #   - Description 2.
 
       - company: GIST DMCB(Data Mining and Computational Biology) Lab
         position: Undergraduate Researcher
-        # location: Pasadena, California, US
         start_date: 2025-04
         end_date: 2025-08
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
 
-    # Volunteer:
-    #   - company: People's Climate March
-    #     position: Lead Organizer
-    #     location: Zurich, Switzerland
-    #     start_date: 2014-04-01
-    #     end_date: 2015-07-01
-    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #     highlights:
-    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #       - "Men of the year 2014 by Time magazine"
-
-    Awards:
+    Awards & Honors:
       - title: GongU Madang, AI Foundational Data Application Contes
         start_date: 2025-07
         end_date: 2025-09
-        # awarder: Royal Swedish Academy of Sciences
-        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        # summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
       - title: DACON, 2025 Samsung Collegiate Programming Challenge AI
         start_date: 2025-06
         end_date: 2025-07
-        # awarder: German Physical Society
-        # summary: Awarded for outstanding scientific achievement
 
       - title: GIST, AI 4 Good Hackathon
         date: 2024-03
@@ -106,7 +59,6 @@ cv:
       - title: GIST, AI & IoT Makerton
         date: 2022-10
 
-    Honors:
       - title: GIST, Academic Excellence Scholorship
         start_date: 2022-09
         end_date: 2023-12
@@ -115,72 +67,22 @@ cv:
         start_date: 2024-03
         end_date: present
 
-    # Publications:
-    #   - title: Zur Elektrodynamik bewegter Körper
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1905-06-30
-    #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-    #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-    # Skills:
-    #   - name: Physics
-    #     level: Master
-    #     icon: fa-solid fa-hashtag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    # Languages:
-    #   - name: German
-    #     summary: "Native speaker"
-
-    #   - name: English
-    #     summary: "Fluent"
-
-    # Interests:
-    #   - name: Physics
-    #     icon: fa-solid fa-tag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Teaching Assistants:
-      - title: Single Variable Calculus and Applications
+    Teaching Experience:
+      - title: Awards & Honors
         start_date: 2024-03
         end_date: 2024-06
 
-      - title: Multi Variable Calculus and Applications
+      - title: Multi Variable Calculus TA
         start_date: 2025-03
         end_date: 2025-06
 
     Certificates:
       - name: Linux Master (Level-II)
         date: 2018-01-01
-        # issuer: Stanford University
-        # icon: fa-solid fa-location-dot
 
       - name: SQLD (SQL Developer)
         date: 2018-01-01
-        # issuer: Stanford University
-        # icon: fa-solid fa-tag
 
       - name: ADsP (Advanced Data Analytics Semi-Professional)
         date: 2025-03-21
-        # issuer: Korea Data Agency
-        # icon: fa-solid fa-envelope
 
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
-
-    # References:
-    #   - name: Professor John Doe
-    #     icon: fa-solid fa-laptop
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-    #   - name: Professor Jane Smith
-    #     icon: fa-solid fa-thumbtack
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
