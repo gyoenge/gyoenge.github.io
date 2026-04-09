@@ -62,7 +62,7 @@ cv:
         summary: Participated in a group study on spectral graph theory, supervised by Prof. M. Kim.
 
     Volunteer:
-      - company: GIST, Division of liberal Arts and Sciences 
+      - company: GIST, Division of liberal Arts and Sciences
         position: TA, Single & Multi Variable Calculus
         start_date: 2024-03
         end_date: 2025-06
@@ -86,8 +86,7 @@ cv:
         # start_date: 2025-06
         # end_date: 2025-07
         date: 2025-07
-        summary:
-          (Individual) Ranked 18th in the preliminary round; participated in the main contest. Multi-modality for interpreting smart phone gallery everyday photos. Trained BLIP2-flan-t5 model with LoRA.
+        summary: (Individual) Ranked 18th in the preliminary round; participated in the main contest. Multi-modality for interpreting smart phone gallery everyday photos. Trained BLIP2-flan-t5 model with LoRA.
 
       - title: President’s Science Scholorship
         authors:
@@ -137,7 +136,7 @@ cv:
         date: 2022-09
         # start_date: 2022-09
         # end_date: 2023-12
-        summary: (2022.09. ~ 2023.12.) Scholarship awarded to students with outstanding academic performance. 
+        summary: (2022.09. ~ 2023.12.) Scholarship awarded to students with outstanding academic performance.
 
     Certificates:
       - name: Linux Master II
