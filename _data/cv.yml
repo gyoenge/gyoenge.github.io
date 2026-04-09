@@ -76,8 +76,8 @@ cv:
         # start_date: 2025-07
         # end_date: 2025-09
         date: 2025-09
-        summary: (Individual) 2nd prize. Prototype of photo kiosk, Korean Minhwa styled photo generator for foreign tourists. \ 
-                  Trained Stable Diffusion XL model with LoRA, Textual Inversion, Dream Booth. 
+        summary: (Individual) 2nd prize. Prototype of photo kiosk, Korean Minhwa styled photo generator for foreign tourists. \
+          Trained Stable Diffusion XL model with LoRA, Textual Inversion, Dream Booth.
 
       - title: 2025 Samsung Collegiate Programming Challenge AI
         authors:
@@ -86,8 +86,9 @@ cv:
         # start_date: 2025-06
         # end_date: 2025-07
         date: 2025-07
-        summary: (Individual) Ranked 18th in the preliminary round; participated in the main contest. Multi-modality for interpreting smart phone gallery everyday photos. \
-                  Trained BLIP2-flan-t5 model with LoRA. 
+        summary:
+          (Individual) Ranked 18th in the preliminary round; participated in the main contest. Multi-modality for interpreting smart phone gallery everyday photos. \
+          Trained BLIP2-flan-t5 model with LoRA.
 
       - title: President’s Science Scholorship
         authors:
@@ -96,15 +97,15 @@ cv:
         # start_date: 2024-03
         # end_date: present
         date: 2024-03
-        summary: 2024.03. ~ . 
+        summary: 2024.03. ~ .
 
       - title: AI 4 Good Hackathon
         authors:
           - "GIST"
         awarder: GIST
         date: 2024-03
-        summary: (Team) 1st prize. Prototype of learning tool, converting PPT elements into a Braille pad for visually impaired. \ 
-                Trained PPT object detection model, utilizing AWS Rekognition Custom Labels. 
+        summary: (Team) 1st prize. Prototype of learning tool, converting PPT elements into a Braille pad for visually impaired. \
+          Trained PPT object detection model, utilizing AWS Rekognition Custom Labels.
 
       - title: K-digital Net Challenge
         authors:
@@ -122,14 +123,14 @@ cv:
         # start_date: 2023-06
         # end_date: 2023-08
         date: 2023-08
-        summary: (Team) 2nd prize. Vision system of ping pong robot, detecting position of the ball. Utilized OpenCV library, Python multiprocessing. 
+        summary: (Team) 2nd prize. Vision system of ping pong robot, detecting position of the ball. Utilized OpenCV library, Python multiprocessing.
 
       - title: AI & IoT Makerton
         authors:
           - "GIST"
         awarder: GIST
         date: 2022-10
-        summary: (Team) 3rd prize. Classification of 7-segment display number from Arduino camera. Trained simple CNN network. 
+        summary: (Team) 3rd prize. Classification of 7-segment display number from Arduino camera. Trained simple CNN network.
 
       - title: Academic Excellence Scholorship
         authors:
@@ -138,7 +139,7 @@ cv:
         date: 2022-09
         # start_date: 2022-09
         # end_date: 2023-12
-        summary: 2022.09. ~ 2023.12. 
+        summary: 2022.09. ~ 2023.12.
 
     Certificates:
       - name: Linux Master II
