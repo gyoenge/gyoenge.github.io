@@ -56,11 +56,11 @@ cv:
         end_date: 2025-08
         summary: Downstream task of EpiAgent - epigenetic language encoder model.
 
-      - company: Group Study of Spectral Graph Theory 
-        position: Group Study 
+      - company: Group Study of Spectral Graph Theory
+        position: Group Study
         start_date: 2024-09
         end_date: 2025-02
-        summary: Participated in a group study on spectral graph theory, supervised by Prof. M. Kim. 
+        summary: Participated in a group study on spectral graph theory, supervised by Prof. M. Kim.
 
     Awards:
       - title: AI Foundational Data Application Contes
@@ -125,9 +125,9 @@ cv:
 
     Volunteer:
       - company: GIST
-        position: TA, Single & Multi Variable Calculus 
+        position: TA, Single & Multi Variable Calculus
         start_date: 2024-03
-        end_date: 2025-06 
+        end_date: 2025-06
 
     Certificates:
       - name: Linux Master (Level-II)
