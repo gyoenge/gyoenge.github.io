@@ -5,7 +5,7 @@ description: 3D Medical SAM with Frequency-based Dual-path Adapter
 img: assets/img/projects/2025_tave_medivision_mainimg.png
 importance: 2
 category: 2025
-related_publications: true
+related_publications: false 
 ---
 
 3D SAM with FDA(Frequency-based Dual-path Adapter) for Prompt-based Volumetric Medical Image Segmentation.
