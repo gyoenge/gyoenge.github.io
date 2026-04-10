@@ -20,7 +20,7 @@ The detailed [code](https://github.com/gyoenge/robust-photometric-stereo) and [r
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/2025_coursecv_innerimg1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/2025_coursecv_inner1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -36,7 +36,7 @@ The detailed [code](https://github.com/gyoenge/structure-from-motion) and [repor
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/2025_coursecv_innerimg2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/2025_coursecv_inner2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -52,6 +52,6 @@ The detailed [code](https://github.com/gyoenge/supervised-depth-refinement) and 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/2025_coursecv_innerimg3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/2025_coursecv_inner3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
