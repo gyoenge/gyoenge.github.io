@@ -10,14 +10,19 @@ related_publications: true
 
 Entry for the 2025 Gongu AI Source Data Utilization Contest. A generative AI service that produces personalized souvenirs (postcards, photo cards, posters, etc.) using elements of Korean tradition.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/2025_ktourmemory_inner1.gif" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The overview.  
+    The preview/prototype of the proposed kiosk.  
 </div>
+
+Event: 2025 Gongu AI Data Utilization Contest (August-September 2025)
+Theme: Prototyping an AI service using Gongu-madang(공유마당)’s source datasets.
+Idea: generative AI service that creates personalized souvenirs (postcards, photo cards, posters, etc.) using elements of Korean tradition.
+Individual Participation, I got a 2nd prize as a result!
+
+The detailed [code](https://github.com/gyoenge/ktour-memory-studio) can be found in the link.
+
