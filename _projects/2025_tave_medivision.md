@@ -10,7 +10,7 @@ related_publications: true
 
 3D SAM with FDA(Frequency-based Dual-path Adapter) for Prompt-based Volumetric Medical Image Segmentation.
 
-3DMedSAM-FDA was proposed to overcome the limitation of the original [3D SAM Adapter](https://github.com/med-air/3DSAM-adapter), which fails to sufficiently capture local structures and boundary details compared to global semantic information. 
+3DMedSAM-FDA was proposed to overcome the limitation of the original [3D SAM Adapter](https://github.com/med-air/3DSAM-adapter), which fails to sufficiently capture local structures and boundary details compared to global semantic information.
 We introduce a novel Dual-Path Adapter that processes global contextual information and frequency-based local features in parallel.
 
 The detailed [code](https://github.com/gyoenge/3DMedSAM-FDA) can be found in the link.
@@ -19,7 +19,7 @@ The detailed [code](https://github.com/gyoenge/3DMedSAM-FDA) can be found in the
 
 ### Architecture
 
-The overall segmentation framework consists of an image encoder, a prompt encoder, and a mask decoder, and follows the 3DSAM-Adapter approach, where a simple adapter is inserted into the image encoder for fine-tuning while the pretrained SAM (Segment Anything Model) is kept frozen. 
+The overall segmentation framework consists of an image encoder, a prompt encoder, and a mask decoder, and follows the 3DSAM-Adapter approach, where a simple adapter is inserted into the image encoder for fine-tuning while the pretrained SAM (Segment Anything Model) is kept frozen.
 
 Unlike the conventional single-path adapter, our framework adopts a Dual-Path Adapter composed of a Global Path and a Local Path. The detailed architecture is as follows:
 
@@ -37,18 +37,18 @@ Unlike the conventional single-path adapter, our framework adopts a Dual-Path Ad
 <br>
 <br>
 
-The proposed adapter (Locality-enhanced, Frequency-based Dual-path Adapter, \textbf{FDA}) operates as follows: 
+The proposed adapter (Locality-enhanced, Frequency-based Dual-path Adapter, \textbf{FDA}) operates as follows:
 
-- **Global Context Path (Spatial Domain):** 
-A \(3 \times 3 \times 3\) depth-wise convolution is applied to capture 3D structural information and long-range contextual dependencies.
+- **Global Context Path (Spatial Domain):**
+  A \(3 \times 3 \times 3\) depth-wise convolution is applied to capture 3D structural information and long-range contextual dependencies.
 
 - **Local Textural Path (Frequency Domain):**  
-The input features are transformed into the frequency domain using the Fast Fourier Transform (FFT).  
-A radial mask \( M(r) \) is applied to enhance high-frequency components (i.e., boundary information).  
-The features are then transformed back to the spatial domain via the Inverse FFT (IFFT), followed by a \(1 \times 1 \times 1\) convolution.
+  The input features are transformed into the frequency domain using the Fast Fourier Transform (FFT).  
+  A radial mask \( M(r) \) is applied to enhance high-frequency components (i.e., boundary information).  
+  The features are then transformed back to the spatial domain via the Inverse FFT (IFFT), followed by a \(1 \times 1 \times 1\) convolution.
 
 - **Adaptive Gated Fusion:**  
-The outputs are fused by adaptively modulating the contribution of the local path based on the global context.
+  The outputs are fused by adaptively modulating the contribution of the local path based on the global context.
 
 <br>
 
@@ -72,7 +72,7 @@ As a result, the complementary information from the two paths is effectively fus
 <br>
 <br>
 
-### Results 
+### Results
 
 The experiments are conducted on 3D CT images for the segmentation of four types of abdominal tumors (Kidney, Pancreas, Liver, and Colon tumors).
 
@@ -106,7 +106,7 @@ Moreover, the proposed model achieves these improvements while maintaining a com
 
 <br>
 
-The above figure presents qualitative results, illustrating that the proposed method achieves superior performance compared to the 3D SAM Adapter, particularly for modalities where fine-grained textures and boundary details are critical, such as Liver and Colon tumor segmentation. 
+The above figure presents qualitative results, illustrating that the proposed method achieves superior performance compared to the 3D SAM Adapter, particularly for modalities where fine-grained textures and boundary details are critical, such as Liver and Colon tumor segmentation.
 
 <br>
 <br>

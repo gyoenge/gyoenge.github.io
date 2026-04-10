@@ -48,7 +48,6 @@ The detailed [code](https://github.com/gyoenge/structure-from-motion) and [repor
 <br>
 <br>
 
-
 ### 3. Supervised Depth Refinement
 
 Supervised Depth Refinement with UNet, architecture boosts, and data augmentation for accurate depth completion.

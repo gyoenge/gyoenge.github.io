@@ -12,15 +12,14 @@ Entry for the 2025 Gongu AI Source Data Utilization Contest. A generative AI ser
 
 - Event: 2025 Gongu AI Data Utilization Contest (August-September 2025)
 - Theme: Prototyping an AI service using Gongu-madang(공유마당)’s source datasets.
-- Idea: A generative AI service that creates personalized souvenirs (postcards, photo cards, posters, etc.) using elements of Korean tradition. 
-It would be effective to implement this as a kiosk service, allowing users to interactively customize their souvenirs. 
-Generative AI models, such as Stable Diffusion, can be used to combine users’ face photos with selected elements of Korean tradition.
+- Idea: A generative AI service that creates personalized souvenirs (postcards, photo cards, posters, etc.) using elements of Korean tradition.
+  It would be effective to implement this as a kiosk service, allowing users to interactively customize their souvenirs.
+  Generative AI models, such as Stable Diffusion, can be used to combine users’ face photos with selected elements of Korean tradition.
 - Individual Participation, I got a 2nd prize as a result!
 
 The detailed [code](https://github.com/gyoenge/ktour-memory-studio) can be found in the link.
 
-Below is a preview of the proposed idea (note that this is just a prototype; actual SDXL results may have a slightly different style while maintaining the same concept):  
-
+Below is a preview of the proposed idea (note that this is just a prototype; actual SDXL results may have a slightly different style while maintaining the same concept):
 
 <br>
 
@@ -34,4 +33,3 @@ Below is a preview of the proposed idea (note that this is just a prototype; act
 </div>
 
 <br>
-
