@@ -38,7 +38,7 @@ Below is a preview of the proposed idea:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/2024_coursecompsys_inner1.png" title="preview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/2024_coursecompsys_inner2.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,12 +48,14 @@ Below is a preview of the proposed idea:
 #### Backend Mockup
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/2024_coursecompsys_inner3.mov" title="preview" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 mt-3 mt-md-0 text-center">
+        <video class="img-fluid rounded z-depth-1" controls>
+            <source src="{{ 'assets/img/projects/2024_coursecompsys_inner3.mov' | relative_url }}" type="video/mp4">
+        </video>
     </div>
 </div>
-<div class="caption">
-    Backend Mockup.  
+<div class="caption text-center">
+    Backend Mockup.
 </div>
 
 <br>
