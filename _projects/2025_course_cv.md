@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GIST Computer Vision Course Project 
-description: (i) Robust Photometric Stereo (ii) Structure from Motion (iii) Supervised Depth Refinement 
+title: GIST Computer Vision Course Project
+description: (i) Robust Photometric Stereo (ii) Structure from Motion (iii) Supervised Depth Refinement
 img: assets/img/12.jpg
 importance: 1
 category: 2026
