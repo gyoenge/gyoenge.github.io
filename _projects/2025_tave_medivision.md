@@ -5,7 +5,7 @@ description: 3D Medical SAM with Frequency-based Dual-path Adapter
 img: assets/img/projects/2025_tave_medivision_mainimg.png
 importance: 2
 category: 2025
-related_publications: false 
+related_publications: false
 ---
 
 3D SAM with FDA(Frequency-based Dual-path Adapter) for Prompt-based Volumetric Medical Image Segmentation.
@@ -23,7 +23,6 @@ The overall segmentation framework consists of an image encoder, a prompt encode
 
 Unlike the conventional single-path adapter, our framework adopts a Dual-Path Adapter composed of a Global Path and a Local Path. The detailed architecture is as follows:
 
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner1.png" title="preview" class="img-fluid rounded z-depth-1" %}
@@ -32,7 +31,6 @@ Unlike the conventional single-path adapter, our framework adopts a Dual-Path Ad
 <div class="caption">
     The overview of the architecture.  
 </div>
-
 
 The proposed adapter (Locality-enhanced, Frequency-based Dual-path Adapter, \textbf{FDA}) operates as follows:
 
