@@ -25,4 +25,3 @@ Idea: generative AI service that creates personalized souvenirs (postcards, phot
 Individual Participation, I got a 2nd prize as a result!
 
 The detailed [code](https://github.com/gyoenge/ktour-memory-studio) can be found in the link.
-
