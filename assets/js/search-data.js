@@ -51,6 +51,16 @@ ninja.data = [{
           description: "Implementation of Robust Photometric Stereo, Structure from Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
+            },},{id: "projects-k-tour-memory-studio",
+          title: 'K-Tour Memory Studio',
+          description: "A generative AI service that produces personalized souvenirs using elements of Korean tradition.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_ktourmemory/";
+            },},{id: "projects-club-tave-16th-project-team-medivision",
+          title: 'Club TAVE 16th Project - Team MediVision',
+          description: "3D Medical SAM with Frequency-based Dual-path Adapter",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_tave_medivision/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
