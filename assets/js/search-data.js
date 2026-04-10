@@ -46,7 +46,27 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-computer-vision-course-project",
+          section: "News",},{id: "projects-ai4good-team-hackathon",
+          title: 'AI4Good Team Hackathon',
+          description: "Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (text, figures, diagrams) into a Braille pad.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024_ai4good/";
+            },},{id: "projects-deep-learning-course-team-project",
+          title: 'Deep Learning Course Team Project',
+          description: "An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024_course_compsys/";
+            },},{id: "projects-deep-learning-course-team-project",
+          title: 'Deep Learning Course Team Project',
+          description: "A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024_course_dl/";
+            },},{id: "projects-machine-learning-course-project",
+          title: 'Machine Learning Course Project',
+          description: "Implementation of Support Vector Machines (SVM) from scratch.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024_course_ml/";
+            },},{id: "projects-computer-vision-course-project",
           title: 'Computer Vision Course Project',
           description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
