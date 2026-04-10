@@ -48,7 +48,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-computer-vision-course-project",
           title: 'Computer Vision Course Project',
-          description: "Implementation of Robust Photometric Stereo, Structure from Motion, Supervised Depth Refinement",
+          description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
             },},{id: "projects-k-tour-memory-studio",
