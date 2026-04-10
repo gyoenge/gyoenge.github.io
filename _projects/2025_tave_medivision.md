@@ -50,6 +50,9 @@ The proposed adapter (Locality-enhanced, Frequency-based Dual-path Adapter, \tex
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner2.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Interal Visualization of the Dual-path Adapter.  
+</div>
 
 The figure above illustrates an example of the internal operation of the proposed Dual-Path Adapter.
 
@@ -73,6 +76,10 @@ The detailed experimental settings, including the dataset, data preprocessing, a
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner3.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Quantitative Results, compared with baselines and point options.   
+</div>
+
 
 The proposed 3DMedSAM-FDA demonstrates consistent and meaningful performance improvements over the baseline across different organs. For Kidney and Pancreas tumor segmentation, it achieves average Dice score gains of +5.1%p and +0.1%p, respectively, compared to the original 3D SAM Adapter, while maintaining stable segmentation results by preserving global semantic information.
 
@@ -83,9 +90,12 @@ For Colon tumor segmentation, our method achieves substantial performance gains 
 Moreover, the proposed model achieves these improvements while maintaining a comparable number of parameters (29.02M) to the original 3D SAM Adapter (25.46M). This demonstrates that the proposed lightweight architecture can effectively enhance representational capacity without a significant increase in model complexity.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner4.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Qualitative Results. 
 </div>
 
 The above figure presents qualitative results, illustrating that the proposed method achieves superior performance compared to the 3D SAM Adapter, particularly for modalities where fine-grained textures and boundary details are critical, such as Liver and Colon tumor segmentation.
