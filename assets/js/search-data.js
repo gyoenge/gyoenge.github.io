@@ -46,9 +46,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-gist-computer-vision-course-project",
-          title: 'GIST Computer Vision Course Project',
-          description: "(i) Robust Photometric Stereo (ii) Structure from Motion (iii) Supervised Depth Refinement",
+          section: "News",},{id: "projects-computer-vision-course-project",
+          title: 'Computer Vision Course Project',
+          description: "Implementation of Robust Photometric Stereo, Structure from Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
             },},{id: "teachings-data-science-fundamentals",
