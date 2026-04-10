@@ -23,10 +23,9 @@ The overall segmentation framework consists of an image encoder, a prompt encode
 
 Unlike the conventional single-path adapter, our framework adopts a Dual-Path Adapter composed of a Global Path and a Local Path. The detailed architecture is as follows:
 
-<br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner1.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -34,8 +33,6 @@ Unlike the conventional single-path adapter, our framework adopts a Dual-Path Ad
     The overview of the architecture.  
 </div>
 
-<br>
-<br>
 
 The proposed adapter (Locality-enhanced, Frequency-based Dual-path Adapter, \textbf{FDA}) operates as follows:
 
@@ -50,16 +47,11 @@ The proposed adapter (Locality-enhanced, Frequency-based Dual-path Adapter, \tex
 - **Adaptive Gated Fusion:**  
   The outputs are fused by adaptively modulating the contribution of the local path based on the global context.
 
-<br>
-
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner2.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<br>
-<br>
 
 The figure above illustrates an example of the internal operation of the proposed Dual-Path Adapter.
 
@@ -78,15 +70,11 @@ The experiments are conducted on 3D CT images for the segmentation of four types
 
 The detailed experimental settings, including the dataset, data preprocessing, and baseline training hyperparameters, follow those of the 3DSAM-Adapter.
 
-<br>
-
 <div class="row justify-content-sm-center">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner3.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<br>
 
 The proposed 3DMedSAM-FDA demonstrates consistent and meaningful performance improvements over the baseline across different organs. For Kidney and Pancreas tumor segmentation, it achieves average Dice score gains of +5.1%p and +0.1%p, respectively, compared to the original 3D SAM Adapter, while maintaining stable segmentation results by preserving global semantic information.
 
@@ -96,15 +84,11 @@ For Colon tumor segmentation, our method achieves substantial performance gains 
 
 Moreover, the proposed model achieves these improvements while maintaining a comparable number of parameters (29.02M) to the original 3D SAM Adapter (25.46M). This demonstrates that the proposed lightweight architecture can effectively enhance representational capacity without a significant increase in model complexity.
 
-<br>
-
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_tave_medivision_inner4.png" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<br>
 
 The above figure presents qualitative results, illustrating that the proposed method achieves superior performance compared to the 3D SAM Adapter, particularly for modalities where fine-grained textures and boundary details are critical, such as Liver and Colon tumor segmentation.
 
