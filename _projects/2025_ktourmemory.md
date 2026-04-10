@@ -11,7 +11,7 @@ related_publications: true
 Entry for the 2025 Gongu AI Source Data Utilization Contest. A generative AI service that produces personalized souvenirs (postcards, photo cards, posters, etc.) using elements of Korean tradition.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_ktourmemory_inner1.gif" title="preview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
