@@ -10,6 +10,8 @@ related_publications: true
 
 Entry for the 2025 Gongu AI Source Data Utilization Contest. A generative AI service that produces personalized souvenirs (postcards, photo cards, posters, etc.) using elements of Korean tradition.
 
+<br>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_ktourmemory_inner1.gif" title="preview" class="img-fluid rounded z-depth-1" %}
@@ -18,6 +20,8 @@ Entry for the 2025 Gongu AI Source Data Utilization Contest. A generative AI ser
 <div class="caption">
     The preview/prototype of the proposed kiosk.  
 </div>
+
+<br>
 
 Event: 2025 Gongu AI Data Utilization Contest (August-September 2025)
 Theme: Prototyping an AI service using Gongu-madang(공유마당)’s source datasets.

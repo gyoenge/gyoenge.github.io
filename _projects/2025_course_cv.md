@@ -10,6 +10,8 @@ related_publications: true
 
 In GIST Computer Vision Course (EC4216), there were 3 individual coding assignment: (i) Robust Photometric Stereo, (ii) Structure From Motion, (iii) Supervised Depth Refinement.
 
+<br>
+
 ### 1. Robust Photometric Stereo
 
 Robust Photometric Stereo with RPCA(Robust Principle Component Analysis) and photometric factor weighting for accurate surface normal estimation and relighting.
@@ -23,6 +25,8 @@ The detailed [code](https://github.com/gyoenge/robust-photometric-stereo) and [r
         {% include figure.liquid path="assets/img/projects/2025_coursecv_inner1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<br>
 
 ### 2. Structure From Motion
 
@@ -40,6 +44,8 @@ The detailed [code](https://github.com/gyoenge/structure-from-motion) and [repor
     </div>
 </div>
 
+<br>
+
 ### 3. Supervised Depth Refinement
 
 Supervised Depth Refinement with UNet, architecture boosts, and data augmentation for accurate depth completion.
@@ -49,6 +55,8 @@ In this project, I implemented Supervised Depth Refinement (SDR) to accurately p
 The baseline model consists of HoleFiller, UNet, and Depth2Normal modules, among which only UNet is trainable. It is trained to minimize Sparse depth loss and Normal loss. To improve the performance of the baseline model, I additionally designed and applied two boosting strategies: ArchBoost (Architecture Boost) and DataBoost (Data-driven Boost).
 
 The detailed [code](https://github.com/gyoenge/supervised-depth-refinement) and [report(KR)](https://github.com/gyoenge/supervised-depth-refinement/blob/main/report_submitted.pdf) can be found in the link.
+
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
