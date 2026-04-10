@@ -8,8 +8,7 @@ category: 2025
 related_publications: true
 ---
 
-In GIST Computer Vision Course (EC4216), there were 3 individual coding assignment: (i) Robust Photometric Stereo, (ii) Structure from Motion, (iii) Supervised Depth Refinement. 
-
+In GIST Computer Vision Course (EC4216), there were 3 individual coding assignment: (i) Robust Photometric Stereo, (ii) Structure from Motion, (iii) Supervised Depth Refinement.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,4 +24,3 @@ In GIST Computer Vision Course (EC4216), there were 3 individual coding assignme
 <div class="caption">
     The overview of the coding assignments. 
 </div>
-
