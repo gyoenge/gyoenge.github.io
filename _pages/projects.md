@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of my developing projects. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [2026, 2025, 2024, 2023, 2022] #[work, fun]
 horizontal: false
 ---
 
