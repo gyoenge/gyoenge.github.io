@@ -13,26 +13,25 @@ In GIST Computer Vision Course (EC4216), there were 3 individual coding assignme
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/2025_coursecv_mainimg.png" title="overview" class="img-fluid rounded z-depth-1" %}
-    </div> 
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div> 
+    </div>
 </div>
 <div class="caption">
-    The overview of the coding assignments. 
+    The overview of the coding assignments.
 </div> -->
 
+### 1. Robust Photometric Stereo
 
-### 1. Robust Photometric Stereo 
+Robust Photometric Stereo with RPCA(Robust Principle Component Analysis) and photometric factor weighting for accurate surface normal estimation and relighting.
 
-Robust Photometric Stereo with RPCA(Robust Principle Component Analysis) and photometric factor weighting for accurate surface normal estimation and relighting. 
+In this project, I implemented a Robust Photometric Stereo pipeline to precisely estimate the 3D surface information of objects from multiple images. First, assuming that objects follow Lambertian reflectance properties, I implemented the traditional Photometric Stereo method based on Least Squares. Next, to effectively handle non-Lambertian outliers such as shadows and highlights that may occur in real-world environments, I applied Robust Principal Component Analysis (RPCA) to build a Robust Photometric Stereo approach.
 
-In this project, I implemented a Robust Photometric Stereo pipeline to precisely estimate the 3D surface information of objects from multiple images. First, assuming that objects follow Lambertian reflectance properties, I implemented the traditional Photometric Stereo method based on Least Squares. Next, to effectively handle non-Lambertian outliers such as shadows and highlights that may occur in real-world environments, I applied Robust Principal Component Analysis (RPCA) to build a Robust Photometric Stereo approach.  
-
-The detailed [code](https://github.com/gyoenge/robust-photometric-stereo) and [report(KR)](https://github.com/gyoenge/robust-photometric-stereo/blob/main/report.pdf) can be found in the link. 
+The detailed [code](https://github.com/gyoenge/robust-photometric-stereo) and [report(KR)](https://github.com/gyoenge/robust-photometric-stereo/blob/main/report.pdf) can be found in the link.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,16 +39,15 @@ The detailed [code](https://github.com/gyoenge/robust-photometric-stereo) and [r
     </div> 
 </div>
 
-
-### 2. Structure From Motion 
+### 2. Structure From Motion
 
 Structure-from-Motion with two-view and multi-view reconstruction using feature matching, triangulation, and bundle adjustment.
 
-In this project, I implemented Structure From Motion (SfM) to reconstruct the 3D structure of objects from images taken at multiple viewpoints. First, I performed Two-View SfM using the 5-point algorithm on the initial two viewpoints. Then, for additional viewpoints, I applied the 3-point algorithm along with bundle adjustment to perform Multi-View SfM. 
+In this project, I implemented Structure From Motion (SfM) to reconstruct the 3D structure of objects from images taken at multiple viewpoints. First, I performed Two-View SfM using the 5-point algorithm on the initial two viewpoints. Then, for additional viewpoints, I applied the 3-point algorithm along with bundle adjustment to perform Multi-View SfM.
 
 In each SfM stage, the point algorithms were used to estimate the camera pose, where RANSAC was employed to select the most reliable estimates. Once the camera poses were extracted, we applied triangulation on the matching points across images to obtain 3D cloud points.
 
-The detailed [code](https://github.com/gyoenge/structure-from-motion) and [report(KR)](https://github.com/gyoenge/structure-from-motion/blob/main/(supplemented)%20report_compressed.pdf) can be found in the link. 
+The detailed [code](https://github.com/gyoenge/structure-from-motion) and [report(KR)](<https://github.com/gyoenge/structure-from-motion/blob/main/(supplemented)%20report_compressed.pdf>) can be found in the link.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -57,22 +55,18 @@ The detailed [code](https://github.com/gyoenge/structure-from-motion) and [repor
     </div> 
 </div>
 
+### 3. Supervised Depth Refinement
 
-### 3. Supervised Depth Refinement 
-
-Supervised Depth Refinement with UNet, architecture boosts, and data augmentation for accurate depth completion. 
+Supervised Depth Refinement with UNet, architecture boosts, and data augmentation for accurate depth completion.
 
 In this project, I implemented Supervised Depth Refinement (SDR) to accurately predict complete depth from the given Sparse Depth, RGB Image, and Surface Normal. The SDR model takes sparse depth and RGB as input and outputs depth and normal, where the model learns weights under the supervision of Sparse Ground Truth and Normal Ground Truth to perform depth refinement.
 
 The baseline model consists of HoleFiller, UNet, and Depth2Normal modules, among which only UNet is trainable. It is trained to minimize Sparse depth loss and Normal loss. To improve the performance of the baseline model, I additionally designed and applied two boosting strategies: ArchBoost (Architecture Boost) and DataBoost (Data-driven Boost).
 
-The detailed [code](https://github.com/gyoenge/supervised-depth-refinement) and [report(KR)](https://github.com/gyoenge/supervised-depth-refinement/blob/main/report_submitted.pdf) can be found in the link. 
+The detailed [code](https://github.com/gyoenge/supervised-depth-refinement) and [report(KR)](https://github.com/gyoenge/supervised-depth-refinement/blob/main/report_submitted.pdf) can be found in the link.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/2025_coursecv_innerimg3.png" title="overview" class="img-fluid rounded z-depth-1" %}
     </div> 
 </div>
-
-
-
