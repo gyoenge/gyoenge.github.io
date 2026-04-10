@@ -27,6 +27,7 @@ The detailed [code](https://github.com/gyoenge/robust-photometric-stereo) and [r
 </div>
 
 <br>
+<br>
 
 ### 2. Structure From Motion
 
@@ -45,6 +46,8 @@ The detailed [code](https://github.com/gyoenge/structure-from-motion) and [repor
 </div>
 
 <br>
+<br>
+
 
 ### 3. Supervised Depth Refinement
 
@@ -56,10 +59,11 @@ The baseline model consists of HoleFiller, UNet, and Depth2Normal modules, among
 
 The detailed [code](https://github.com/gyoenge/supervised-depth-refinement) and [report(KR)](https://github.com/gyoenge/supervised-depth-refinement/blob/main/report_submitted.pdf) can be found in the link.
 
-<br>
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/2025_coursecv_inner3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<br>
+<br>
