@@ -2,7 +2,7 @@
 layout: page
 title: Computer Vision Course Project
 description: Implementation of Robust Photometric Stereo, Structure from Motion, Supervised Depth Refinement
-img: assets/img/12.jpg
+img: assets/img/projects/2025_coursecv_mainimg.png
 importance: 1
 category: 2025
 related_publications: true
