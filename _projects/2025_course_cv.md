@@ -10,21 +10,6 @@ related_publications: true
 
 In GIST Computer Vision Course (EC4216), there were 3 individual coding assignment: (i) Robust Photometric Stereo, (ii) Structure From Motion, (iii) Supervised Depth Refinement.
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/2025_coursecv_mainimg.png" title="overview" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The overview of the coding assignments.
-</div> -->
-
 ### 1. Robust Photometric Stereo
 
 Robust Photometric Stereo with RPCA(Robust Principle Component Analysis) and photometric factor weighting for accurate surface normal estimation and relighting.
@@ -33,10 +18,10 @@ In this project, I implemented a Robust Photometric Stereo pipeline to precisely
 
 The detailed [code](https://github.com/gyoenge/robust-photometric-stereo) and [report(KR)](https://github.com/gyoenge/robust-photometric-stereo/blob/main/report.pdf) can be found in the link.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/2025_coursecv_innerimg1.png" title="overview" class="img-fluid rounded z-depth-1" %}
-    </div> 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/2025_coursecv_innerimg1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 ### 2. Structure From Motion
@@ -49,11 +34,12 @@ In each SfM stage, the point algorithms were used to estimate the camera pose, w
 
 The detailed [code](https://github.com/gyoenge/structure-from-motion) and [report(KR)](<https://github.com/gyoenge/structure-from-motion/blob/main/(supplemented)%20report_compressed.pdf>) can be found in the link.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/2025_coursecv_innerimg2.png" title="overview" class="img-fluid rounded z-depth-1" %}
-    </div> 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/2025_coursecv_innerimg2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
+
 
 ### 3. Supervised Depth Refinement
 
@@ -65,8 +51,8 @@ The baseline model consists of HoleFiller, UNet, and Depth2Normal modules, among
 
 The detailed [code](https://github.com/gyoenge/supervised-depth-refinement) and [report(KR)](https://github.com/gyoenge/supervised-depth-refinement/blob/main/report_submitted.pdf) can be found in the link.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/2025_coursecv_innerimg3.png" title="overview" class="img-fluid rounded z-depth-1" %}
-    </div> 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/2025_coursecv_innerimg3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
