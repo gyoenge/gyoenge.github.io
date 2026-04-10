@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Machine Learning Course Project"
-description: Implementation of Support Vector Machines (SVM) from scratch. 
+description: Implementation of Support Vector Machines (SVM) from scratch.
 img: assets/img/projects/2024_courseml_mainimg.png
 importance: 3
 category: 2024
@@ -20,9 +20,9 @@ The detailed [code](https://github.com/gyoenge/support-vector-machine-impl) can 
 <br>
 <br>
 
-### Overview 
+### Overview
 
-#### Hard margin SVM 
+#### Hard margin SVM
 
 We implemented the process of finding the optimal decision boundary using hinge loss and coordinate gradient descent.
 
@@ -35,8 +35,7 @@ We implemented the process of finding the optimal decision boundary using hinge 
     The result of Hard margin SVM.  
 </div>
 
-
-#### Soft margin SVM 
+#### Soft margin SVM
 
 We can find a decision boundary of two classes by solving dual problem. Slack variables allow misclassification.
 
@@ -54,9 +53,7 @@ We can find a decision boundary of two classes by solving dual problem. Slack va
     The result of Soft margin SVM.  
 </div>
 
-
-
-#### Kernel Tricks 
+#### Kernel Tricks
 
 We implemented various kernel filters to SVM to compare their performance.
 

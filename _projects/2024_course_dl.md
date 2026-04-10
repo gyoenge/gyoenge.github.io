@@ -1,20 +1,20 @@
 ---
 layout: page
 title: "Deep Learning Course Team Project"
-description: A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness. 
+description: A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness.
 img: assets/img/projects/2024_coursedl_mainimg.png
 importance: 2
 category: 2024
 related_publications: false
 ---
 
-Team project of GIST Deep Learning course (AI4311). We developed a mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness. 
+Team project of GIST Deep Learning course (AI4311). We developed a mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness.
 
 - Course: GIST Deep Learning (AI4311)
 - Project Type: Deep Learning Team Project
 - Team Size: 4 Members
 
-We trained Meat Object Detection model with YOLOv8, and Meat Doneness Classification model with ResNet50. We developed Meat Doneness Checking Mobile App with Flutter, FastAPI. 
+We trained Meat Object Detection model with YOLOv8, and Meat Doneness Classification model with ResNet50. We developed Meat Doneness Checking Mobile App with Flutter, FastAPI.
 
 The detailed [code](https://github.com/gyoenge/meat-detection-and-doneness-checker) can be found in the link.
 

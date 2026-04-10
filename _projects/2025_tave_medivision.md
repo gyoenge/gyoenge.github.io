@@ -80,7 +80,6 @@ The detailed experimental settings, including the dataset, data preprocessing, a
     Quantitative Results, compared with baselines and point options.   
 </div>
 
-
 The proposed 3DMedSAM-FDA demonstrates consistent and meaningful performance improvements over the baseline across different organs. For Kidney and Pancreas tumor segmentation, it achieves average Dice score gains of +5.1%p and +0.1%p, respectively, compared to the original 3D SAM Adapter, while maintaining stable segmentation results by preserving global semantic information.
 
 In particular, for Liver tumor segmentation, the performance improvement becomes more pronounced as the number of prompt points increases. Under the 10-point setting, our method outperforms not only the 3D SAM Adapter but also nnU-Net, achieving a +1.87%p higher Dice score. This result highlights the effectiveness of the dual-path architecture in jointly leveraging global contextual and local structural information.
