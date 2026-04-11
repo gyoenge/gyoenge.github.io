@@ -26,7 +26,7 @@ cv:
         start_date: 2025-06
         end_date: 2025-12
         # date: 2025
-        courses: "Digital Signal Proscessing, Operating System, Database"
+        courses: "Digital Signal Proscessing, Operating System, Database, Discrete Mathematics"
         highlights:
           - (2025.06.-2025.12.) During Summer & Fall Semester.
 
