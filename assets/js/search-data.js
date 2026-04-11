@@ -46,7 +46,37 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ai4good-team-hackathon",
+          section: "News",},{id: "projects-ai-amp-iot-makerthon",
+          title: 'AI&amp;amp;IoT Makerthon',
+          description: "AI+IoT solution that detects the remaining time on a washing machine by visually recognizing digits on its 7-segment display.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022_aiiotmakerthon/";
+            },},{id: "projects-goorm-kaggle-bootcamp",
+          title: 'Goorm Kaggle Bootcamp',
+          description: "60days bootcamp by Goorm, we learned basic ML/DL concepts and apply into participating Kaggle competition.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022_goorm_kaggle/";
+            },},{id: "projects-infoteam-introduce-page",
+          title: 'Infoteam Introduce Page',
+          description: "A React.js project from GIST Student Council Information Bureau (Infoteam).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022_introducepage/";
+            },},{id: "projects-oop-course-c-team-project",
+          title: 'OOP Course C++ Team Project',
+          description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023_course_oopcpp/";
+            },},{id: "projects-net-challenge-grounding-dino",
+          title: 'Net-challenge Grounding DINO',
+          description: "An AI-powered safety alert system, which analyzes CCTV to detect dangers and alerts users via a mobile application, utilizing Grounding DINO model.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023_netchallenge/";
+            },},{id: "projects-ping-pong-robot-competetion",
+          title: 'Ping-pong Robot Competetion',
+          description: "We utilized OpenCV for its stereo vision system, a trajectory approximation algorithm for prediction, and a multiprocessing architecture to enable a fast response.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023_pingpongrobot/";
+            },},{id: "projects-ai4good-team-hackathon",
           title: 'AI4Good Team Hackathon',
           description: "Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (text, figures, diagrams) into a Braille pad.",
           section: "Projects",handler: () => {
@@ -71,16 +101,31 @@ ninja.data = [{
           description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
+            },},{id: "projects-research-internship-epiagent-downstreams",
+          title: 'Research Internship: EpiAgent Downstreams',
+          description: "EpiAgent AD(Alzheimer Disease) Insilico task. Cell-type–aware extension of EpiAgent with LoRA adapters.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_dmcb_epiagent/";
             },},{id: "projects-k-tour-memory-studio",
           title: 'K-Tour Memory Studio',
           description: "A generative AI service that produces personalized souvenirs using elements of Korean tradition.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_ktourmemory/";
+            },},{id: "projects-dacon-scpc-ai-challenge",
+          title: 'DACON SCPC AI Challenge',
+          description: "DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_scpcdacon/";
             },},{id: "projects-club-tave-16th-project-team-medivision",
           title: 'Club TAVE 16th Project - Team MediVision',
           description: "3D Medical SAM with Frequency-based Dual-path Adapter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_tave_medivision/";
+            },},{id: "projects-research-internship-radiomics-pathomics-cl",
+          title: 'Research Internship: Radiomics-Pathomics CL',
+          description: "RaPaCL - Radiomics and Rathomics Contrastive Learning for Spatial Transcriptomics Prediction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2026_aimed_rapacl/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
