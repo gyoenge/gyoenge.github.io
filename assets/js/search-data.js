@@ -48,57 +48,57 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-ai-amp-iot-makerthon",
           title: 'AI&amp;amp;IoT Makerthon',
-          description: "AI+IoT solution that detects the remaining time on a washing machine by visually recognizing digits on its 7-segment display.",
+          description: "AI+IoT solution that detects the remaining time on a washing machine by visually recognizing digits on its 7-segment display",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022_aiiotmakerthon/";
             },},{id: "projects-goorm-kaggle-bootcamp",
           title: 'Goorm Kaggle Bootcamp',
-          description: "60days bootcamp by Goorm, we learned basic ML/DL concepts and apply into participating Kaggle competition.",
+          description: "60days bootcamp by Goorm, we learned basic ML/DL concepts and apply into participating Kaggle competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022_goorm_kaggle/";
             },},{id: "projects-infoteam-introduce-page",
           title: 'Infoteam Introduce Page',
-          description: "A React.js project from GIST Student Council Information Bureau (Infoteam).",
+          description: "A React.js project from GIST Student Council Information Bureau (Infoteam)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022_introducepage/";
             },},{id: "projects-oop-course-c-team-project",
           title: 'OOP Course C++ Team Project',
-          description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles.",
+          description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_course_oopcpp/";
             },},{id: "projects-net-challenge-grounding-dino",
           title: 'Net-challenge Grounding DINO',
-          description: "An AI-powered safety alert system, which analyzes CCTV to detect dangers and alerts users via a mobile application, utilizing Grounding DINO model.",
+          description: "An AI-powered safety alert system, which analyzes CCTV to detect dangers and alerts users via a mobile application, utilizing Grounding DINO model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_netchallenge/";
             },},{id: "projects-ping-pong-robot-competetion",
           title: 'Ping-pong Robot Competetion',
-          description: "We utilized OpenCV for its stereo vision system, a trajectory approximation algorithm for prediction, and a multiprocessing architecture to enable a fast response.",
+          description: "We utilized OpenCV for its stereo vision system, a trajectory approximation algorithm for prediction, and a multiprocessing architecture to enable a fast response",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_pingpongrobot/";
             },},{id: "projects-ai4good-team-hackathon",
           title: 'AI4Good Team Hackathon',
-          description: "Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (text, figures, diagrams) into a Braille pad.",
+          description: "Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (figures, texts, diagrams) into a Braille pad",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_ai4good/";
             },},{id: "projects-deep-learning-course-team-project",
           title: 'Deep Learning Course Team Project',
-          description: "An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application.",
+          description: "An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_compsys/";
             },},{id: "projects-deep-learning-course-team-project",
           title: 'Deep Learning Course Team Project',
-          description: "A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness.",
+          description: "A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_dl/";
             },},{id: "projects-machine-learning-course-project",
           title: 'Machine Learning Course Project',
-          description: "Implementation of Support Vector Machines (SVM) from scratch.",
+          description: "Implementation of Support Vector Machines (SVM) from scratch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_ml/";
             },},{id: "projects-graph-networks-study",
           title: 'Graph Networks Study',
-          description: "As the extended study of Spectral Graph Theory Group Seminar, I studied some Graph Networks.",
+          description: "As the extended study of Spectral Graph Theory Group Seminar, I studied some Graph Networks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_graphnetworks/";
             },},{id: "projects-computer-vision-course-project",
@@ -108,7 +108,7 @@ ninja.data = [{
               window.location.href = "/projects/2025_course_cv/";
             },},{id: "projects-research-intern-epiagent-downstreams",
           title: 'Research Intern: EpiAgent Downstreams',
-          description: "EpiAgent AD(Alzheimer Disease) Insilico task. Cell-type–aware extension of EpiAgent with LoRA adapters.",
+          description: "EpiAgent AD(Alzheimer Disease) Insilico task. Cell-type–aware extension of EpiAgent with LoRA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_dmcb_epiagent/";
             },},{id: "projects-k-tour-memory-studio",
@@ -118,7 +118,7 @@ ninja.data = [{
               window.location.href = "/projects/2025_ktourmemory/";
             },},{id: "projects-dacon-scpc-ai-challenge",
           title: 'DACON SCPC AI Challenge',
-          description: "DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries).",
+          description: "DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_scpcdacon/";
             },},{id: "projects-club-tave-16th-project-team-medivision",
@@ -128,7 +128,7 @@ ninja.data = [{
               window.location.href = "/projects/2025_tave_medivision/";
             },},{id: "projects-research-intern-radiomics-pathomics-cl",
           title: 'Research Intern: Radiomics-Pathomics CL',
-          description: "RaPaCL - Radiomics and Rathomics Contrastive Learning for Spatial Transcriptomics Prediction.",
+          description: "Radiomics and Rathomics Contrastive Learning (RaPaCL) for Spatial Transcriptomics Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2026_aimed_rapacl/";
             },},{id: "teachings-data-science-fundamentals",
