@@ -106,8 +106,8 @@ ninja.data = [{
           description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
-            },},{id: "projects-research-internship-epiagent-downstreams",
-          title: 'Research Internship: EpiAgent Downstreams',
+            },},{id: "projects-research-intern-epiagent-downstreams",
+          title: 'Research Intern: EpiAgent Downstreams',
           description: "EpiAgent AD(Alzheimer Disease) Insilico task. Cell-type–aware extension of EpiAgent with LoRA adapters.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_dmcb_epiagent/";
@@ -126,8 +126,8 @@ ninja.data = [{
           description: "3D Medical SAM with Frequency-based Dual-path Adapter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_tave_medivision/";
-            },},{id: "projects-research-internship-radiomics-pathomics-cl",
-          title: 'Research Internship: Radiomics-Pathomics CL',
+            },},{id: "projects-research-intern-radiomics-pathomics-cl",
+          title: 'Research Intern: Radiomics-Pathomics CL',
           description: "RaPaCL - Radiomics and Rathomics Contrastive Learning for Spatial Transcriptomics Prediction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2026_aimed_rapacl/";
