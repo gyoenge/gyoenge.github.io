@@ -81,8 +81,8 @@ ninja.data = [{
           description: "Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (figures, texts, diagrams) into a Braille pad",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_ai4good/";
-            },},{id: "projects-deep-learning-course-team-project",
-          title: 'Deep Learning Course Team Project',
+            },},{id: "projects-comp-system-course-team-project",
+          title: 'Comp System Course Team Project',
           description: "An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_compsys/";
