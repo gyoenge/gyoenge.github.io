@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Deep Learning Course Team Project"
+title: "Comp System Course Team Project"
 description: An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application
 img: assets/img/projects/2024_coursecompsys_mainimg.png
 importance: 4
