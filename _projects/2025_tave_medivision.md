@@ -3,7 +3,7 @@ layout: page
 title: "Club TAVE 16th Project - Team MediVision"
 description: 3D Medical SAM with Frequency-based Dual-path Adapter
 img: assets/img/projects/2025_tave_medivision_mainimg.png
-importance: 2
+importance: 3
 category: 2025
 related_publications: false
 ---
