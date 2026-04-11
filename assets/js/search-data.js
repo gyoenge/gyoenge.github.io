@@ -113,7 +113,7 @@ ninja.data = [{
               window.location.href = "/projects/2025_dmcb_epiagent/";
             },},{id: "projects-k-tour-memory-studio",
           title: 'K-Tour Memory Studio',
-          description: "A generative AI service that produces personalized souvenirs using elements of Korean tradition.",
+          description: "A generative AI service that produces personalized souvenirs using elements of Korean tradition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_ktourmemory/";
             },},{id: "projects-dacon-scpc-ai-challenge",
