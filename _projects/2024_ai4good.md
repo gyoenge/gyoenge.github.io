@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AI4Good Team Hackathon"
-description: Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (text, figures, diagrams) into a Braille pad.
+description: Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (figures, texts, diagrams) into a Braille pad
 img: assets/img/projects/2024_ai4good_mainimg.png
 importance: 1
 category: 2024
