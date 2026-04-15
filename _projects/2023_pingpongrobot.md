@@ -31,7 +31,7 @@ related_publications: false
     The Mockup of our ping-pong robot.
 </div>
 
-### Poster 
+### Poster
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -47,19 +47,23 @@ related_publications: false
 The robot's architecture is divided into four main subsystems:
 
 1. Vision System
+
 - Hardware: A stereo camera system is installed to capture the first half of the table, providing the depth perception necessary for 3D coordinate extraction.
 - Software: The system detects the ping-pong ball by applying an HSV color mask to isolate orange objects within a specific Region of Interest (ROI). After an affine transformation on the ROI, the ball's center of mass in both camera frames (frameL and frameR) is calculated. Using stereo vision principles (triangulation from disparity), these 2D coordinates are converted into real-world 3D coordinates (x, y, z).
 
 2. Prediction System
+
 - This system uses the 3D coordinates from the first two frames to approximate the ball's entire flight path.
 - XY-Plane Prediction: The trajectory on the xy-plane is approximated as a straight line to predict the final x-coordinate (x_final). An experimental weight and bias were added to account for trajectory changes after the ball bounces.
 - YZ-Plane Prediction: The trajectory on the yz-plane is approximated as a parabola to predict the final z-coordinate (z_final), using the least squares method for curve fitting.
 
 3. Robot System
+
 - Hardware: The robot consists of a multi-joint arm mounted on a linear actuator, allowing it to move horizontally along the table. The design was refined from an initial concept to a more structurally sound version for the final build.
 - Software: The robot's hitting motion is a composite movement designed to push the ball forward, inspired by analyzing professional table tennis players-. Motor control was implemented using the DYNAMIXEL SDK for precise adjustments of position and velocity. Communication between the main Python control script and the C++-controlled linear actuator is handled via UDP socket communication.
 
 4. Integration System
+
 - This system manages the entire workflow, from camera input to robot control, using a parallel architecture to overcome the limitations of sequential processing.
 - Multithreading: Initially used to solve the issue of handling two simultaneous camera inputs.
 - Multiprocessing: To achieve true parallel processing and bypass Python's Global Interpreter Lock (GIL), the system was ultimately designed with 6 distinct processes. Data is passed sequentially between processes using queues, significantly improving the overall processing speed and enabling a real-time response.
