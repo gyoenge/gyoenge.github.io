@@ -19,7 +19,7 @@ related_publications: false
 - Including features such as inventory management, recipe recommendation and user interactions.
 - See more details: [Instruction.pdf](https://github.com/gyoenge/oop-cpp-smart-refri-system/blob/master/Instruction.pdf) and below Mockup.
 
-### Mockup 
+### Mockup
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -29,5 +29,3 @@ related_publications: false
 <div class="caption">
     The detailed mock-up of the project.  
 </div>
-
-
