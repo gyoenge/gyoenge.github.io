@@ -46,22 +46,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ai-amp-iot-makerthon",
-          title: 'AI&amp;amp;IoT Makerthon',
-          description: "AI+IoT solution that detects the remaining time on a washing machine by visually recognizing digits on its 7-segment display",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2022_aiiotmakerthon/";
-            },},{id: "projects-goorm-kaggle-bootcamp",
-          title: 'Goorm Kaggle Bootcamp',
-          description: "60days bootcamp by Goorm, we learned basic ML/DL concepts and apply into participating Kaggle competition",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2022_goorm_kaggle/";
-            },},{id: "projects-infoteam-introduce-page",
-          title: 'Infoteam Introduce Page',
-          description: "A React.js project from GIST Student Council Information Bureau (Infoteam)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2022_introducepage/";
-            },},{id: "projects-oop-course-c-team-project",
+          section: "News",},{id: "projects-oop-course-c-team-project",
           title: 'OOP Course C++ Team Project',
           description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles",
           section: "Projects",handler: () => {
