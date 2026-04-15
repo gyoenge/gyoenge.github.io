@@ -28,6 +28,7 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=huggingface&logoColor=white)
 
 **CV / Data**  
 OpenCV · Image Processing · Medical Data Processing
