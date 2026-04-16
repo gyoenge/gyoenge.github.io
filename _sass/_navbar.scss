@@ -188,3 +188,7 @@
     color: var(--global-hover-color);
   }
 }
+
+.icon-container:empty {
+  display: none;
+}
