@@ -24,16 +24,32 @@ toc:
 
 ## Academic Experience
 
-### CS Courses
+### Digital Signal Processing
 
 - 배운 내용
 - 인상 깊었던 개념
 - 과제/프로젝트
 
-### Other Experiences
+### Operation System
+
+- 주요 주제
+- interesting insight
+- 느낀 점
+
+### Database System
+
+- 주요 주제
+- interesting insight
+- 느낀 점
+
+### Discrete Mathematics
 
 - 주요 주제
 - interesting insight
 - 느낀 점
 
 ---
+
+## Daily Logs
+
+- ... 

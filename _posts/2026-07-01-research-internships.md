@@ -2,7 +2,7 @@
 layout: distill
 title: 2025~2026 GIST Undergraduate Research Internship
 description: Research internship experience in Medical AI and Computer Vision at GIST, including work in AI-MED and DMCB labs.
-date: 2026-07-01
+date: 2026-04-01
 tags: [Med-AI, ComputerVision]
 
 toc:
@@ -24,6 +24,8 @@ toc:
 - 배운 내용
 - 인상 깊었던 개념
 - 과제/프로젝트
+
+---
 
 ## GIST DMCB Lab
 
