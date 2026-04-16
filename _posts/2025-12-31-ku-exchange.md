@@ -14,11 +14,11 @@ toc:
       - name: Database System
       - name: Discrete Mathematics
   - name: Extracurricular Activities
-    subsections: 
+    subsections:
       - name: TAVE (Univ-wide IT Club), Team MediVision
       - name: Building Friendships with International Students
   - name: Daily Logs
-    subsections: 
+    subsections:
       - name: Food Exploration near Campus
       - name: Exploring Seoul
 ---
@@ -64,14 +64,13 @@ toc:
 
 - Participated in a university-wide IT club, TAVE, as a member of Team MediVision.
 - Worked on projects related to medical AI and computer vision.
-- Collaborated with team members to develop practical solutions and share technical knowledge. 
+- Collaborated with team members to develop practical solutions and share technical knowledge.
 
 ### Building Friendships with International Students
 
 - Interacted with international students from diverse cultural backgrounds.
 - Built meaningful friendships through academic and social activities.
 - Gained new perspectives by engaging in cross-cultural communication.
-
 
 ---
 
@@ -88,4 +87,3 @@ toc:
 - Visited major landmarks and neighborhoods across Seoul.
 - Experienced the city's diverse culture, from traditional sites to modern districts.
 - Gained a deeper understanding of everyday life and urban culture in Korea.
-

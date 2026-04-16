@@ -26,7 +26,6 @@ toc:
 - Took courses in Game Theory and Computational Models of Cognition while experiencing academic and campus life in Berkeley.
 - Explored various cities in California, gaining both academic insights and diverse cultural experiences.
 
-
 ---
 
 ## Academic Experience
@@ -36,7 +35,6 @@ toc:
 - Studied fundamental concepts such as strategic decision-making, Nash equilibrium, and game-theoretic models.
 - Learned how to analyze interactions between rational agents in competitive and cooperative settings.
 - Applied theoretical concepts to problem sets and real-world scenarios.
-
 
 ### Computational Models of Cognition
 
@@ -54,20 +52,17 @@ toc:
 - Experienced diverse neighborhoods and cultural environments across the city.
 - Enjoyed the blend of urban atmosphere and coastal scenery.
 
-
 ### San Jose
 
 - Explored Silicon Valley and visited areas related to the tech industry.
 - Experienced a quieter and more suburban environment compared to San Francisco.
 - Gained a better understanding of the region’s technological ecosystem.
 
-
 ### Los Angeles
 
 - Visited major attractions such as Hollywood and Santa Monica.
 - Experienced the large-scale urban environment and entertainment culture.
 - Enjoyed the contrast between different districts within the city.
-
 
 ### Las Vegas
 
@@ -77,9 +72,8 @@ toc:
 
 ---
 
-## Daily Logs 
+## Daily Logs
 
 - Recorded daily experiences through photos and short notes.
 - Explored various restaurants and cafes near campus, experiencing local food culture.
 - Traveled across different cities in California, documenting memorable moments and personal reflections.
-

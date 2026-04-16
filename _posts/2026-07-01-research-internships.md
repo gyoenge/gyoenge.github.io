@@ -19,7 +19,6 @@ toc:
 - Conducted research in Medical AI and Computer Vision across AI-MED and DMCB labs.
 - Gained hands-on experience in deep learning, data analysis, and interdisciplinary research.
 
-
 ---
 
 ## GIST AI-MED Lab
