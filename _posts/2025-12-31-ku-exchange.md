@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: 2025 Korea University Exchange Student
-description: Exchange student experience at Korea University, covering academic coursework and diverse campus life experiences.
+description: Exchange student experience at Korea University (Jun-Dec 2025)
 date: 2025-12-31
 tags: ExchangeStudent
 
