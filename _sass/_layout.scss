@@ -57,6 +57,14 @@ th {
   text-align: left;
 }
 
+.icon-links a {
+  text-decoration: none;
+}
+
+.icon-links a:hover {
+  text-decoration: none;
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples

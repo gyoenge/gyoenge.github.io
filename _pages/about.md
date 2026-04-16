@@ -11,7 +11,7 @@ profile:
   image_circular: true # crops the image to make it circular
 ---
 
-<div style="margin-top:10px; margin-bottom:20px;">
+<div class="icon-links" style="margin-top:10px; margin-bottom:20px;">
   <a href="https://github.com/gyoenge" target="_blank" style="margin-right:12px;">
     <i class="fab fa-github fa-lg"></i>
   </a>
