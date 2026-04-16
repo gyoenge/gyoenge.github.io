@@ -17,7 +17,7 @@ toc:
       - name: San Jose
       - name: Los Angeles
       - name: Las Vegas
-  - name: Daily Logs
+  - name: Special Insights 
 ---
 
 ## Overview
@@ -72,7 +72,7 @@ toc:
 
 ---
 
-## Daily Logs
+## Special Insights 
 
 - Recorded daily experiences through photos and short notes.
 - Explored various restaurants and cafes near campus, experiencing local food culture.
