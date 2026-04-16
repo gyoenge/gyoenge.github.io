@@ -56,7 +56,7 @@ ninja.data = [{
         
           title: "2024 UC Berkeley Summer Session",
         
-        description: "Academic and personal experiences in Berkeley, California",
+        description: "Academic and personal experiences in Berkeley, California (Jun-Aug 2024)",
         section: "Posts",
         handler: () => {
           
