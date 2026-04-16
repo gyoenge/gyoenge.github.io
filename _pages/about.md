@@ -11,6 +11,15 @@ profile:
   image_circular: true # crops the image to make it circular
 ---
 
+<div style="margin-top:10px; margin-bottom:20px;">
+  <a href="https://github.com/gyoenge" target="_blank" style="margin-right:12px;">
+    <i class="fab fa-github fa-lg"></i>
+  </a>
+  <a href="mailto:gyoeng94@gmail.com">
+    <i class="fas fa-envelope fa-lg"></i>
+  </a>
+</div>
+
 Hi, I'm Huigyoeng Son. Currently, I'm an undergraduate student at GIST (2022-Present).
 
 I focus on AI and Computer Vision, particularly on extracting meaningful insights from medical image data. As an undergraduate researcher at the GIST AI-MED Lab, I am working on the task of spatially predicting gene expression from pathology images.
