@@ -4,6 +4,20 @@ title: 2024 UC Berkeley Summer Session
 description: Academic and personal experiences in Berkeley, California
 date: 2024-09-01
 tags: ExchangeStudent
+
+toc:
+  - name: Overview
+  - name: Academic Experience
+    subsections:
+      - name: Game Theory
+      - name: Computational Models of Cognition
+  - name: Travel & Exploration
+    subsections:
+      - name: San Francisco
+      - name: San Jose
+      - name: Los Angeles
+      - name: Las Vegas
+  - name: Daily Logs 
 ---
 
 ## Overview
