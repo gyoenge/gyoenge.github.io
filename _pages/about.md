@@ -23,11 +23,47 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
 
 **Teck Stack**
 
-| Category  | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AI / ML   | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=huggingface&logoColor=white) |
-| CV / Data | OpenCV · Image Processing · Medical Data Processing                                                                                                                                                                                                                                                                                                                                                                                          |
-| Others    | Linux · Docker · Git/GitHub                                                                                                                                                                                                                                                                                                                                                                                                                  |
+<table style="width:100%; border-collapse:collapse; background-color:#ffffff;">
+  <tr>
+    <th style="background-color:#ffffff; border:1px solid #d0d7de; padding:14px 18px; text-align:left; width:180px;">
+      Category
+    </th>
+    <th style="background-color:#ffffff; border:1px solid #d0d7de; padding:14px 18px; text-align:center;">
+      Stack
+    </th>
+  </tr>
+
+  <tr>
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:16px 18px; vertical-align:middle; font-weight:600;">
+      AI / ML
+    </td>
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:16px 18px; vertical-align:middle;">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
+      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
+      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=huggingface&logoColor=white" style="margin:2px 0 2px 0; vertical-align:middle;" />
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:16px 18px; vertical-align:middle; font-weight:600;">
+      CV / Data
+    </td>
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:16px 18px; vertical-align:middle;">
+      OpenCV · Image Processing · Medical Data Processing
+    </td>
+  </tr>
+
+  <tr>
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:16px 18px; vertical-align:middle; font-weight:600;">
+      Others
+    </td>
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:16px 18px; vertical-align:middle;">
+      Linux · Docker · Git/GitHub
+    </td>
+  </tr>
+</table>
 
 <!-- **AI / ML**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
