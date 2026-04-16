@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-2025-korea-university-exchange-student",
+        },{id: "post-2025-2026-gist-undergraduate-research-internship",
+        
+          title: "2025~2026 GIST Undergraduate Research Internship",
+        
+        description: "Research internship experience in Medical AI and Computer Vision at GIST, including work in AI-MED and DMCB labs.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/research-internships/";
+          
+        },
+      },{id: "post-2025-korea-university-exchange-student",
         
           title: "2025 Korea University Exchange Student",
         
