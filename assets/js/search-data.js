@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-2024-uc-berkeley-summer-session",
+        },{id: "post-2025-korea-university-exchange-student",
+        
+          title: "2025 Korea University Exchange Student",
+        
+        description: "Exchange student experience at Korea University, covering academic coursework and diverse campus life experiences.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ku-exchange/";
+          
+        },
+      },{id: "post-2024-uc-berkeley-summer-session",
         
           title: "2024 UC Berkeley Summer Session",
         
