@@ -17,7 +17,7 @@ toc:
       - name: San Jose
       - name: Los Angeles
       - name: Las Vegas
-  - name: Daily Logs 
+  - name: Daily Logs
 ---
 
 ## Overview

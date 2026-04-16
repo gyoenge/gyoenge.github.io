@@ -7,10 +7,10 @@ tags: [Med-AI, ComputerVision]
 
 toc:
   - name: Overview
-  - name: GIST AI-MED Lab 
+  - name: GIST AI-MED Lab
     # subsections:
-    #   - name: 
-  - name: GIST DMCB Lab 
+    #   - name:
+  - name: GIST DMCB Lab
 ---
 
 ## Overview
@@ -19,13 +19,13 @@ toc:
 
 ---
 
-## GIST AI-MED Lab 
+## GIST AI-MED Lab
 
 - 배운 내용
 - 인상 깊었던 개념
 - 과제/프로젝트
 
-## GIST DMCB Lab 
+## GIST DMCB Lab
 
 - 주요 주제
 - interesting insight
