@@ -91,7 +91,7 @@ bing_site_verification: "" # your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: "" # blog_name will be displayed in your blog page
-blog_description: Personal studies related to Vision and Medical AI.
+blog_description: Personal blog and studies on Vision and Medical AI.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
