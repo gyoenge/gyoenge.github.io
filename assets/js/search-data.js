@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-2024-uc-berkeley-summer-session",
+        
+          title: "2024 UC Berkeley Summer Session",
+        
+        description: "Academic and personal experiences in Berkeley, California",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/berkeley-summer/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
