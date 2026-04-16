@@ -35,7 +35,7 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
   </tr>
 
   <tr>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle; font-weight:600;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle; font-weight:400;">
       AI / ML
     </td>
     <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle;">
@@ -48,7 +48,7 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
   </tr>
 
   <tr>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle; font-weight:600;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle; font-weight:400;">
       CV / Data
     </td>
     <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle;">
@@ -57,7 +57,7 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
   </tr>
 
   <tr>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle; font-weight:600;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle; font-weight:400;">
       Others
     </td>
     <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle;">
