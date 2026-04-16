@@ -23,22 +23,22 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
 
 **Teck Stack**
 
-<!--width:100%;-->
+<!--width:100%; text-align:center;-->
 <table style="border-collapse:collapse; background-color:#ffffff;">
   <tr>
-    <th style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px;  text-align:left; width:180px;">
+    <th style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  text-align:left; width:150px;">
       Category
     </th>
-    <th style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px;  text-align:center;">
+    <th style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  text-align:left;">
       Stack
     </th>
   </tr>
 
   <tr>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px;  vertical-align:middle; font-weight:600;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle; font-weight:600;">
       AI / ML
     </td>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px; vertical-align:middle;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle;">
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
       <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
@@ -48,19 +48,19 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
   </tr>
 
   <tr>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px; vertical-align:middle; font-weight:600;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle; font-weight:600;">
       CV / Data
     </td>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px; vertical-align:middle;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle;">
       OpenCV · Image Processing · Medical Data Processing
     </td>
   </tr>
 
   <tr>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px;  vertical-align:middle; font-weight:600;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle; font-weight:600;">
       Others
     </td>
-    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 8px;  vertical-align:middle;">
+    <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle;">
       Linux · Docker · Git/GitHub
     </td>
   </tr>
