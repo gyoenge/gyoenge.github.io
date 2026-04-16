@@ -48,7 +48,6 @@ table {
 th,
 td {
   background-color: transparent !important;
-  border: 1px solid #1c1c1c;
   padding: 12px 16px;
 }
 
@@ -63,6 +62,11 @@ th {
 
 .icon-links a:hover {
   text-decoration: none;
+}
+
+.icon-container:empty {
+  display: none;
+  border: none;
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns
