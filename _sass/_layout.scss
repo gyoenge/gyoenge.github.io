@@ -41,12 +41,19 @@ body.sticky-bottom-footer {
 }
 
 table {
+  border-collapse: collapse;
   background-color: transparent !important;
 }
 
-th,
-td {
+th, td {
   background-color: transparent !important;
+  border: 1px solid #1c1c1c;  
+  padding: 12px 16px;
+}
+
+th {
+  font-weight: 600;
+  text-align: left;
 }
 
 // Content layout uses Bootstrap's grid system with responsive columns
