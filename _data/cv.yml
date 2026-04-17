@@ -17,7 +17,7 @@ cv:
         # score: ""
         # courses: "Theory of Relativity"
         highlights:
-          - Compter Vision (A+), Machine Learning (A), Deep Learning (A)
+          - Computer Vision (A+), Machine Learning (A), Deep Learning (A)
 
       - institution: Korea University, KR
         location: Seoul, Korea
@@ -26,12 +26,12 @@ cv:
         start_date: 2025-06
         end_date: 2025-12
         # date: 2025
-        courses: "Digital Signal Proscessing, Operating System, Database, Discrete Mathematics"
+        courses: "Digital Signal Processing, Operating System, Database, Discrete Mathematics"
         highlights:
           - (2025.06.-2025.12.) During Summer & Fall Semester.
 
       - institution: U.C. Berkeley, US
-        location: Berkely, U.S.
+        location: Berkele, U.S.
         area: Computer Science
         studyType: Exchange Student
         start_date: 2024-06
@@ -42,9 +42,8 @@ cv:
           - (2024.06.-2024.08.) During Summer Semester / Summer Session Program.
 
     Experience:
-      - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
+      - company: GIST AI-Med(Artificial Intelligence on MEDical application) Lab
         position: Undergraduate Researcher Internship
-        location: GIST
         url: https://www.aimed-lab.com/
         start_date: 2025-09
         end_date: present
@@ -52,14 +51,12 @@ cv:
 
       - company: GIST DMCB(Data Mining and Computational Biology) Lab
         position: Undergraduate Researcher Internship
-        location: GIST
         start_date: 2025-04
         end_date: 2025-08
         summary: Downstream task of EpiAgent - epigenetic language encoder model.
 
       - company: Group Study of Spectral Graph Theory
         position: Group Study Seminar
-        location: GIST
         start_date: 2024-09
         end_date: 2025-02
         summary: Participated in a group study on spectral graph theory, supervised by Prof. M. Kim.
@@ -67,7 +64,6 @@ cv:
     Volunteer:
       - company: GIST, Division of liberal Arts and Sciences
         position: TA, Single & Multi Variable Calculus
-        location: GIST
         start_date: 2024-03
         end_date: 2025-06
         summary: Teaching Assistant for Single & Multi Variable Calculus, supervised by Prof. M. Kim.
@@ -91,7 +87,7 @@ cv:
         date: 2025-07
         summary: (Individual) Ranked 18th in the preliminary round; participated in the main contest. Multi-modality for interpreting smart phone gallery everyday photos. Trained BLIP2-flan-t5 model with LoRA.
 
-      - title: President’s Science Scholorship
+      - title: President’s Science Scholarship
         authors:
           - "Korea"
         awarder: Korea
@@ -114,7 +110,7 @@ cv:
         # start_date: 2023-05
         # end_date: 2023-11
         date: 2023-11
-        summary: (Team) 2nd prize. Multi-modality for detecting dangerous objects in CCTV. Utilitzed grounding-DINO object detection model.
+        summary: (Team) 2nd prize. Multi-modality for detecting dangerous objects in CCTV. Utilized grounding-DINO object detection model.
 
       - title: Creative Convergence Competition, Ping Pong Robot Division
         authors:
@@ -125,7 +121,7 @@ cv:
         date: 2023-08
         summary: (Team) 2nd prize. Building vision system of ping pong robot, detecting position of the ball. Utilized OpenCV library with Python multiprocessing.
 
-      - title: AI & IoT Makerton
+      - title: AI & IoT Makethon
         authors:
           - "GIST"
         awarder: GIST
