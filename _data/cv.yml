@@ -44,6 +44,7 @@ cv:
     Experience:
       - company: GIST AI-Med(Aritificial Intelligence on MEDical application) Lab
         position: Undergraduate Researcher Internship
+        location: GIST
         url: https://www.aimed-lab.com/
         start_date: 2025-09
         end_date: present
@@ -51,12 +52,14 @@ cv:
 
       - company: GIST DMCB(Data Mining and Computational Biology) Lab
         position: Undergraduate Researcher Internship
+        location: GIST
         start_date: 2025-04
         end_date: 2025-08
         summary: Downstream task of EpiAgent - epigenetic language encoder model.
 
       - company: Group Study of Spectral Graph Theory
         position: Group Study Seminar
+        location: GIST
         start_date: 2024-09
         end_date: 2025-02
         summary: Participated in a group study on spectral graph theory, supervised by Prof. M. Kim.
@@ -64,6 +67,7 @@ cv:
     Volunteer:
       - company: GIST, Division of liberal Arts and Sciences
         position: TA, Single & Multi Variable Calculus
+        location: GIST
         start_date: 2024-03
         end_date: 2025-06
         summary: Teaching Assistant for Single & Multi Variable Calculus, supervised by Prof. M. Kim.
