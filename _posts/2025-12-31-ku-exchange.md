@@ -25,9 +25,15 @@ toc:
 
 ## Overview
 
-- Participated in an exchange student program at Korea University during Fall 2025.
-- Took core computer science courses while experiencing diverse academic and campus life.
-- Engaged in both academic and extracurricular activities, gaining new perspectives and personal growth.
+I participated in an **exchange student program** at **Korea University** during **Summer and Fall 2025**. This experience was particularly meaningful to me, as I had previously felt that my campus life had been somewhat limited in scope.
+
+One of the most valuable aspects of the program was the opportunity to connect with a diverse group of people. In Korea, there is a unique culture of **intercollegiate clubs**, where students from multiple universities collaborate. I joined a large IT club within this system and served as a **team leader** for a project, which allowed me to develop both technical and leadership skills.
+
+Another memorable experience was building a close **friendship with Sarah**, an exchange student **from Jordan**. Through our interactions, I was able to learn about Islamic culture, engage in language exchange, and spend time studying together while exploring various cafés in Seoul. Her outgoing personality made our time together especially enjoyable, and I am truly grateful for the friendship we built.
+
+Academically, I also achieved meaningful progress. I mainly took major-related courses, including **Digital Signal Processing, Operating Systems, Database Systems, and Discrete Mathematics**. Through these courses, I gained insight into different teaching styles and academic environments at another university, all of which were of high quality and rigor.
+
+Overall, I actively engaged in both academic and extracurricular activities, gaining new perspectives and experiencing significant personal growth.
 
 ---
 
