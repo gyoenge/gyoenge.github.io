@@ -39,7 +39,8 @@ cv:
         # date: 2024
         courses: "Game Theory, Computational Models of Cognition"
         highlights:
-          - (2024.06.-2024.08.) During Summer Semester / Summer Session Program.
+          - (2024.06.-2024.08.) During Summer Semester. 
+          - Summer Session Program of UCB.
 
     Experience:
       - company: GIST AI-Med(Artificial Intelligence on MEDical application) Lab
@@ -98,7 +99,7 @@ cv:
         # start_date: 2024-03
         # end_date: present
         date: 2024-03
-        summary: (2024.03. ~) National scholarship awarded by the Korean government for excellence in science and engineering.
+        summary: (2024.03. ~ ) National scholarship awarded by the Korean government for excellence in science and engineering.
 
       - title: AI 4 Good Hackathon
         authors:
