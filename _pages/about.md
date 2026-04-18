@@ -61,7 +61,10 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
       CV / Data
     </td>
     <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle;">
-      OpenCV · Image Processing · Medical Data Processing
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+      <img src="https://img.shields.io/badge/Image%20Processing-4A90E2?logoColor=white">
+      <img src="https://img.shields.io/badge/Medical%20Data-009688?logoColor=white">
+      <!-- OpenCV · Image Processing · Medical Data Processing -->
     </td>
   </tr>
 
@@ -70,7 +73,11 @@ Computer Vision · Medical AI · Multimodal Learning · Explainable AI
       Others
     </td>
     <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px;  vertical-align:middle;">
-      Linux · Docker · Git/GitHub
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+      <!-- Linux · Docker · Git/GitHub -->
     </td>
   </tr>
 </table>
