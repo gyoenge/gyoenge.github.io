@@ -15,9 +15,15 @@ toc:
 
 ## Overview
 
-- Participated in an undergraduate research internship at GIST from 2025 to 2026.
-- Conducted research in Medical AI and Computer Vision across AI-MED and DMCB labs.
-- Gained hands-on experience in deep learning, data analysis, and interdisciplinary research.
+I participated in an **undergraduate research internship at GIST** from 2025 to 2026. During this period, I conducted research in Medical AI and Computer Vision across the **[AI-MED](https://www.aimed-lab.com/)** (AI on Medical Applications) Lab and the **DMCB** (Data Mining and Computational Biology) Lab. 
+
+My primary research focus was on **predicting spatial transcriptomics from pathology images**. In simple terms, this task involves estimating the spatial distribution of gene expression levels of cells directly from histopathology images.
+
+Through this experience, I gained hands-on expertise in deep learning, data analysis, and interdisciplinary research.
+In particular, I studied a wide range of deep learning paradigms, including Convolutional and Transformer-based vision encoders, genetic language models, foundation models, self-supervised learning, multimodal representation learning, and contrastive learning. 
+By actively participating in weekly lab meetings and iteratively developing research ideas, I strengthened my ability to think critically, tackle complex problems with persistence, and effectively communicate technical concepts with others. 
+
+Overall, this period marked a **significant phase of both academic and personal growth**.
 
 ---
 
