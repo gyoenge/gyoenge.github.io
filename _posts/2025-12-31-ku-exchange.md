@@ -41,11 +41,11 @@ Overall, I actively engaged in both academic and extracurricular activities, gai
 
 ### Digital Signal Processing
 
-I took the course **Digital Signal Processing**, where I developed a solid understanding of discrete-time signal analysis and system modeling. 
+I took the course **Digital Signal Processing**, where I developed a solid understanding of discrete-time signal analysis and system modeling.
 
-I studied fundamental concepts including convolution for LTI systems, Fourier Transform (DTFS/DFT) for frequency-domain analysis, and the z-transform for system characterization and stability analysis. 
-In particular, I gained insight into how signals can be represented and analyzed across time and frequency domains, and how these representations are used to design and interpret digital filters (FIR/IIR). 
-Through this course, I built a strong theoretical foundation for analyzing complex signals and understanding signal processing pipelines used in real-world applications. 
+I studied fundamental concepts including convolution for LTI systems, Fourier Transform (DTFS/DFT) for frequency-domain analysis, and the z-transform for system characterization and stability analysis.
+In particular, I gained insight into how signals can be represented and analyzed across time and frequency domains, and how these representations are used to design and interpret digital filters (FIR/IIR).
+Through this course, I built a strong theoretical foundation for analyzing complex signals and understanding signal processing pipelines used in real-world applications.
 
 ### Operation System
 
@@ -70,7 +70,6 @@ I took the course **Discrete Mathematics**, where I built a strong foundation in
 In particular, I gained a deep understanding of discrete structures and their applications to computational problems, including algorithm design, graph traversal, and complexity analysis. I also explored fundamental concepts in computability and formal languages, such as finite automata and the limits of algorithmic solvability.
 
 Through theoretical and applied exercises, I developed strong problem-solving skills and the ability to think mathematically about complex systems, laying a solid foundation for advanced topics in computer science.
-
 
 ---
 
