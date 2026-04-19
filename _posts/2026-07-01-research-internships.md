@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: 2025~2026 GIST Undergraduate Research Internship
-description: Research internship experience in Medical AI and Computer Vision at GIST, including work in AI-MED and DMCB labs
+description: Research internship experience in Medical AI and Computer Vision at GIST
 date: 2026-04-01
 tags: [Med-AI, ComputerVision]
 

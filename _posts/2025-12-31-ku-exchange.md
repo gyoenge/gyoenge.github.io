@@ -45,6 +45,7 @@ I took the course **Digital Signal Processing**, where I developed a solid under
 
 I studied fundamental concepts including convolution for LTI systems, Fourier Transform (DTFS/DFT) for frequency-domain analysis, and the z-transform for system characterization and stability analysis.
 In particular, I gained insight into how signals can be represented and analyzed across time and frequency domains, and how these representations are used to design and interpret digital filters (FIR/IIR).
+
 Through this course, I built a strong theoretical foundation for analyzing complex signals and understanding signal processing pipelines used in real-world applications.
 
 ### Operation System
