@@ -41,26 +41,36 @@ Overall, I actively engaged in both academic and extracurricular activities, gai
 
 ### Digital Signal Processing
 
-- I took the course **Digital Signal Processing**, focusing on signal analysis and transformation techniques.
-- Learned key concepts such as Fourier Transform, convolution, and filtering.
+I took the course **Digital Signal Processing**, where I developed a solid understanding of discrete-time signal analysis and system modeling. 
+
+I studied fundamental concepts including convolution for LTI systems, Fourier Transform (DTFS/DFT) for frequency-domain analysis, and the z-transform for system characterization and stability analysis. 
+In particular, I gained insight into how signals can be represented and analyzed across time and frequency domains, and how these representations are used to design and interpret digital filters (FIR/IIR). 
+Through this course, I built a strong theoretical foundation for analyzing complex signals and understanding signal processing pipelines used in real-world applications. 
 
 ### Operation System
 
-- Studied fundamental concepts of operating systems, including process management and memory management.
-- Learned about scheduling, synchronization, and system-level design.
-- Gained understanding of how operating systems manage hardware and software resources.
+I took the course **Operating Systems**, where I developed a solid understanding of system-level resource management and process execution.
+
+I studied fundamental concepts including process and thread management, CPU scheduling algorithms, and memory management techniques such as virtual memory and paging. In addition, I learned synchronization mechanisms for handling concurrency, including mutexes and semaphores, as well as the conditions and prevention strategies for deadlocks.
+
+In particular, I gained insight into how operating systems coordinate hardware and software resources efficiently, and how they ensure safe and concurrent execution of multiple processes. Through this course, I built a strong theoretical foundation for understanding system design and the underlying mechanisms that support modern computing environments.
 
 ### Database System
 
-- Learned core database concepts such as relational models, SQL, and normalization.
-- Studied transaction management and indexing techniques.
-- Implemented queries and database design through practical assignments.
+I took the course **Database Systems**, where I developed a strong foundation in relational data modeling and database design. I studied core concepts such as the relational model, SQL, and normalization, with a focus on eliminating redundancy and ensuring data consistency.
+
+In particular, I learned how to analyze schema quality using functional dependencies and applied normalization techniques up to BCNF to design well-structured databases. I also gained an understanding of key trade-offs between normalization and performance, including when denormalization may be necessary in practice.
+
+Through practical assignments, I implemented complex SQL queries and designed relational schemas, reinforcing both theoretical knowledge and real-world application skills.
 
 ### Discrete Mathematics
 
-- Studied mathematical foundations for computer science, including logic, sets, and graph theory.
-- Learned concepts such as combinatorics and discrete structures.
-- Developed problem-solving skills through theoretical and applied exercises.
+I took the course **Discrete Mathematics**, where I built a strong foundation in the mathematical principles underlying computer science. I studied core topics including propositional and predicate logic, set theory, relations, and graph theory, which form the basis for rigorous reasoning and formal problem modeling.
+
+In particular, I gained a deep understanding of discrete structures and their applications to computational problems, including algorithm design, graph traversal, and complexity analysis. I also explored fundamental concepts in computability and formal languages, such as finite automata and the limits of algorithmic solvability.
+
+Through theoretical and applied exercises, I developed strong problem-solving skills and the ability to think mathematically about complex systems, laying a solid foundation for advanced topics in computer science.
+
 
 ---
 
