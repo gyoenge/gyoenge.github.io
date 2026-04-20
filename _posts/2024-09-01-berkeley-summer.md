@@ -26,6 +26,21 @@ toc:
 - Took courses in Game Theory and Computational Models of Cognition while experiencing academic and campus life in Berkeley.
 - Explored various cities in California, gaining both academic insights and diverse cultural experiences.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/overview_img1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/overview_img2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/overview_img3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    My Best Photo Selection! 
+</div>
+
 ---
 
 ## Academic Experience
