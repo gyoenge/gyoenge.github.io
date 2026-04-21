@@ -20,9 +20,9 @@ profile:
   </a>
 </div>
 
-Hi, I'm Huigyoeng Son. Currently, I'm an undergraduate student at GIST (2022-Present).
+Hi, I'm **Huigyoeng Son**. Currently, I'm an **undergraduate student at GIST** (2022-Present).
 
-I focus on AI and Computer Vision, particularly on extracting meaningful insights from medical image data. As an undergraduate researcher at the GIST AI-MED Lab, I am working on the task of spatially predicting gene expression from pathology images.
+I focus on **AI and Computer Vision**, particularly on extracting meaningful insights from medical image data. As an undergraduate researcher at the **GIST AI-MED Lab**, I am working on the task of spatially predicting gene expression from pathology images.
 
 I really enjoy deeply exploring problems and understanding them at a fundamental level!
 
