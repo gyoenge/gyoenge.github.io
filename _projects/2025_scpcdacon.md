@@ -8,7 +8,6 @@ category: 2025
 related_publications: false
 ---
 
-
 The core objective of this project was to develop a multimodal model that accurately answers multiple-choice questions about a given image, for which we implemented a comprehensive approach spanning custom dataset generation, model optimization, and a strategic inference process.
 
 First, we built a three-step pipeline to generate a training dataset of 1,218 examples . In the first step, we used the `Qwen/Qwen-1_8B` model to generate scene prompts across various categories like nature, travel, and food. In the second step, these prompts were fed into the `dreamlike-art/dreamlike-photoreal-2.0` model to create realistic images. In the final step, we utilized the `llava-1.5-7b-hf` model to create a description, a multiple-choice question, and an answer pair for each generated image.
