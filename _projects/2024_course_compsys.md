@@ -6,7 +6,7 @@ img: assets/img/projects/2024_coursecompsys_mainimg.png
 # importance: 4
 # category: 2024
 importance: 4
-category: "Course Project"
+category: "Course Term Project"
 related_publications: false
 ---
 

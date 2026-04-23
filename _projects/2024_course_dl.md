@@ -6,7 +6,7 @@ img: assets/img/projects/2024_coursedl_mainimg.png
 # importance: 2
 # category: 2024
 importance: 5
-category: "Course Project"
+category: "Course Term Project"
 related_publications: false
 ---
 

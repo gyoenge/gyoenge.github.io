@@ -6,7 +6,7 @@ img: assets/img/projects/2025_coursecv_mainimg.png
 # importance: 1
 # category: 2025
 importance: 1
-category: "Course Project"
+category: "Course Term Project"
 related_publications: true
 ---
 
