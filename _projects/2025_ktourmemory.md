@@ -3,8 +3,10 @@ layout: page
 title: "K-Tour Memory Studio"
 description: A generative AI service that produces personalized souvenirs using elements of Korean tradition
 img: assets/img/projects/2025_ktourmemory_mainimg.png
-importance: 5
-category: 2025
+# importance: 5
+# category: 2025
+importance: 6
+category: "Medical & Vision AI Project" 
 related_publications: false
 ---
 

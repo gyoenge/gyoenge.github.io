@@ -3,8 +3,10 @@ layout: page
 title: "DACON SCPC AI Challenge"
 description: DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries)
 img: assets/img/projects/2024_scpcdacon_mainimg.png
+# importance: 4
+# category: 2025
 importance: 4
-category: 2025
+category: "Medical & Vision AI Project" 
 related_publications: false
 ---
 

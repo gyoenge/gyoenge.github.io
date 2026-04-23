@@ -3,8 +3,10 @@ layout: page
 title: "Ping-pong Robot Competetion"
 description: We utilized OpenCV for its stereo vision system, a trajectory approximation algorithm for prediction, and a multiprocessing architecture to enable a fast response
 img: assets/img/projects/2023_pingpongrobot_mainimg.png
-importance: 2
-category: 2023
+# importance: 2
+# category: 2023
+importance: 5
+category: "Medical & Vision AI Project" 
 related_publications: false
 ---
 
