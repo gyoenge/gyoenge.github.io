@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computer Vision Course Project
+title: "[Individual Task] Computer Vision" 
 description: Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement
 img: assets/img/projects/2025_coursecv_mainimg.png
 # importance: 1

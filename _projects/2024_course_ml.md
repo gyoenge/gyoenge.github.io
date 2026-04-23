@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Machine Learning Course Project"
+title: "[Individual Task] Machine Learning"
 description: Implementation of Support Vector Machines (SVM) from scratch
 img: assets/img/projects/2024_courseml_mainimg.png
 # importance: 3

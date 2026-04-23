@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Deep Learning Course Team Project"
+title: "[Team Project] Deep Learning Application"
 description: A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness
 img: assets/img/projects/2024_coursedl_mainimg.png
 # importance: 2
