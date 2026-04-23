@@ -84,13 +84,13 @@ ninja.data = [{
           description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_course_oopcpp/";
-            },},{id: "projects-net-challenge-grounding-dino",
-          title: 'Net-challenge Grounding DINO',
+            },},{id: "projects-safety-detection-with-grounding-dino",
+          title: 'Safety Detection with Grounding DINO',
           description: "An AI-powered safety alert system, which analyzes CCTV to detect dangers and alerts users via a mobile application, utilizing Grounding DINO model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_netchallenge/";
-            },},{id: "projects-ping-pong-robot-competetion",
-          title: 'Ping-pong Robot Competetion',
+            },},{id: "projects-ping-pong-robot-vision-system",
+          title: 'Ping-pong Robot Vision System',
           description: "We utilized OpenCV for its stereo vision system, a trajectory approximation algorithm for prediction, and a multiprocessing architecture to enable a fast response",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_pingpongrobot/";
@@ -119,18 +119,18 @@ ninja.data = [{
           description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
-            },},{id: "projects-research-intern-epiagent-downstreams",
-          title: 'Research Intern: EpiAgent Downstreams',
+            },},{id: "projects-research-intern-with-epiagent-downstreams",
+          title: 'Research Intern with EpiAgent Downstreams',
           description: "EpiAgent AD(Alzheimer Disease) Insilico task. Cell-type–aware extension of EpiAgent with LoRA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_dmcb_epiagent/";
-            },},{id: "projects-k-tour-memory-studio",
-          title: 'K-Tour Memory Studio',
+            },},{id: "projects-k-tour-memory-generate-studio",
+          title: 'K-Tour Memory Generate Studio',
           description: "A generative AI service that produces personalized souvenirs using elements of Korean tradition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_ktourmemory/";
-            },},{id: "projects-dacon-scpc-ai-challenge",
-          title: 'DACON SCPC AI Challenge',
+            },},{id: "projects-vision-language-model-for-multiple-choice-vqa",
+          title: 'Vision-Language Model for Multiple-choice VQA',
           description: "DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_scpcdacon/";
@@ -139,8 +139,8 @@ ninja.data = [{
           description: "3D Medical SAM with Frequency-based Dual-path Adapter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_tave_medivision/";
-            },},{id: "projects-research-intern-radiomics-pathomics-cl",
-          title: 'Research Intern: Radiomics-Pathomics CL',
+            },},{id: "projects-research-intern-with-radiomics-pathomics-cl",
+          title: 'Research Intern with Radiomics-Pathomics CL',
           description: "Radiomics and Rathomics Contrastive Learning (RaPaCL) for Spatial Transcriptomics Prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2026_aimed_rapacl/";
