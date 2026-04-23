@@ -3,8 +3,10 @@ layout: page
 title: "OOP Course C++ Team Project"
 description: A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles
 img: assets/img/projects/2023_courseoopcpp_mainimg.png
-importance: 1
-category: 2023
+importance: 3
+category: "Course Project"
+# importance: 1
+# category: 2023
 related_publications: false
 ---
 

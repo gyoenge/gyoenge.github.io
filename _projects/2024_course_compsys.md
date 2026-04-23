@@ -3,8 +3,10 @@ layout: page
 title: "Comp System Course Team Project"
 description: An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application
 img: assets/img/projects/2024_coursecompsys_mainimg.png
+# importance: 4
+# category: 2024
 importance: 4
-category: 2024
+category: "Course Project"
 related_publications: false
 ---
 
