@@ -79,8 +79,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-team-project-c-object-oriented-programming",
-          title: '[Team Project] C++ Object Oriented Programming',
+          section: "News",},{id: "projects-team-project-c-object-oriented-program",
+          title: '[Team Project] C++ Object Oriented Program',
           description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_course_oopcpp/";
@@ -99,8 +99,8 @@ ninja.data = [{
           description: "Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (figures, texts, diagrams) into a Braille pad",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_ai4good/";
-            },},{id: "projects-team-project-computer-system-with-cloud-infra",
-          title: '[Team Project] Computer System with Cloud Infra',
+            },},{id: "projects-team-project-comp-system-with-cloud",
+          title: '[Team Project] Comp System with Cloud',
           description: "An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_compsys/";
@@ -109,8 +109,8 @@ ninja.data = [{
           description: "A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_dl/";
-            },},{id: "projects-individual-task-machine-learning",
-          title: '[Individual Task] Machine Learning',
+            },},{id: "projects-individual-task-svm-model-implementation",
+          title: '[Individual Task] SVM Model Implementation',
           description: "Implementation of Support Vector Machines (SVM) from scratch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_ml/";
@@ -124,13 +124,13 @@ ninja.data = [{
           description: "EpiAgent AD(Alzheimer Disease) Insilico task. Cell-type–aware extension of EpiAgent with LoRA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_dmcb_epiagent/";
-            },},{id: "projects-k-tour-memory-souvenir-studio",
-          title: 'K-Tour Memory Souvenir Studio',
+            },},{id: "projects-k-tour-memory-souvenir-studio-with-sdxl-gen",
+          title: 'K-Tour Memory Souvenir Studio with SDXL Gen',
           description: "A generative AI service that produces personalized souvenirs using elements of Korean tradition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_ktourmemory/";
-            },},{id: "projects-vision-language-model-for-multi-choice-question-answering",
-          title: 'Vision-Language Model for Multi-Choice Question Answering',
+            },},{id: "projects-vision-language-model-for-multi-choice-answer",
+          title: 'Vision-Language Model for Multi-Choice Answer',
           description: "DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_scpcdacon/";
