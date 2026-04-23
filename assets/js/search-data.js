@@ -134,8 +134,8 @@ ninja.data = [{
           description: "DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_scpcdacon/";
-            },},{id: "projects-club-tave-16th-project-team-medivision",
-          title: 'Club TAVE 16th Project - Team MediVision',
+            },},{id: "projects-club-tave-team-medivision-with-3d-medical-sam",
+          title: 'Club TAVE Team MediVision with 3D Medical SAM',
           description: "3D Medical SAM with Frequency-based Dual-path Adapter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_tave_medivision/";
