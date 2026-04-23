@@ -5,7 +5,7 @@ description: We utilized OpenCV for its stereo vision system, a trajectory appro
 img: assets/img/projects/2023_pingpongrobot_mainimg.png
 # importance: 2
 # category: 2023
-importance: 5
+importance: 8
 category: "Medical & Vision AI Project"
 related_publications: false
 ---
