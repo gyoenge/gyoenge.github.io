@@ -79,8 +79,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-team-project-c-object-oriented-program",
-          title: '[Team Project] C++ Object Oriented Program',
+          section: "News",},{id: "projects-team-project-c-object-orient-program",
+          title: '[Team Project] C++ Object Orient Program',
           description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_course_oopcpp/";
@@ -114,8 +114,8 @@ ninja.data = [{
           description: "Implementation of Support Vector Machines (SVM) from scratch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_ml/";
-            },},{id: "projects-individual-task-computer-vision",
-          title: '[Individual Task] Computer Vision',
+            },},{id: "projects-individual-task-computer-vision-implementation",
+          title: '[Individual Task] Computer Vision Implementation',
           description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
