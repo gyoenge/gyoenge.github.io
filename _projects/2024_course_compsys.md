@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[Team Project] Computer System with Cloud Infra"
+title: "[Team Project] Comp System with Cloud"
 description: An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application
 img: assets/img/projects/2024_coursecompsys_mainimg.png
 # importance: 4

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "K-Tour Memory Souvenir Studio"
+title: "K-Tour Memory Souvenir Studio with SDXL Gen"
 description: A generative AI service that produces personalized souvenirs using elements of Korean tradition
 img: assets/img/projects/2025_ktourmemory_mainimg.png
 # importance: 5

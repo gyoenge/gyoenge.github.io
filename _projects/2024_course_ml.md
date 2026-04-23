@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "[Individual Task] Machine Learning"
+title: "[Individual Task] SVM Model Implementation"
 description: Implementation of Support Vector Machines (SVM) from scratch
 img: assets/img/projects/2024_courseml_mainimg.png
 # importance: 3
