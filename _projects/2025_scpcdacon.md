@@ -6,7 +6,7 @@ img: assets/img/projects/2024_scpcdacon_mainimg.png
 # importance: 4
 # category: 2025
 importance: 4
-category: "Medical & Vision AI Project" 
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

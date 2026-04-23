@@ -6,7 +6,7 @@ img: assets/img/projects/2026_aimed_rapacl_mainimg.png
 # importance: 1
 # category: 2026
 importance: 1
-category: "Medical & Vision AI Project" 
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

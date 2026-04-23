@@ -6,7 +6,7 @@ img: assets/img/projects/2025_dmcb_epiagent_mainimg.png
 # importance: 2
 # category: 2025
 importance: 3
-category: "Medical & Vision AI Project" 
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

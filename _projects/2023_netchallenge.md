@@ -5,8 +5,8 @@ description: An AI-powered safety alert system, which analyzes CCTV to detect da
 img: assets/img/projects/2023_netchallenge_mainimg.png
 # importance: 3
 # category: 2023
-importance: 8 
-category: "Medical & Vision AI Project" 
+importance: 8
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

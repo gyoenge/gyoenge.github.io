@@ -6,7 +6,7 @@ img: assets/img/projects/2023_pingpongrobot_mainimg.png
 # importance: 2
 # category: 2023
 importance: 5
-category: "Medical & Vision AI Project" 
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

@@ -6,7 +6,7 @@ img: assets/img/projects/2025_ktourmemory_mainimg.png
 # importance: 5
 # category: 2025
 importance: 6
-category: "Medical & Vision AI Project" 
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

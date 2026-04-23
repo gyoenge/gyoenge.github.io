@@ -6,7 +6,7 @@ img: assets/img/projects/2024_ai4good_mainimg.png
 # importance: 1
 # category: 2024
 importance: 7
-category: "Medical & Vision AI Project" 
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

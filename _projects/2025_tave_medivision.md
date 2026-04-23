@@ -6,7 +6,7 @@ img: assets/img/projects/2025_tave_medivision_mainimg.png
 # importance: 3
 # category: 2025
 importance: 2
-category: "Medical & Vision AI Project" 
+category: "Medical & Vision AI Project"
 related_publications: false
 ---
 

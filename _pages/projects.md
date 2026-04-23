@@ -6,7 +6,7 @@ description: A growing collection of my developing projects.
 nav: true
 nav_order: 3
 # display_categories: [2026, 2025, 2024, 2023, 2022] #[work, fun]
-display_categories: ["Medical & Vision AI Project", "Course Project"] 
+display_categories: ["Medical & Vision AI Project", "Course Project"]
 horizontal: false
 ---
 
