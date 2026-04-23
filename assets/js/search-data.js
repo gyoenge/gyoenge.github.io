@@ -114,11 +114,6 @@ ninja.data = [{
           description: "Implementation of Support Vector Machines (SVM) from scratch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_ml/";
-            },},{id: "projects-graph-networks-study",
-          title: 'Graph Networks Study',
-          description: "As the extended study of Spectral Graph Theory Group Seminar, I studied some Graph Networks",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2024_graphnetworks/";
             },},{id: "projects-computer-vision-course-project",
           title: 'Computer Vision Course Project',
           description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
