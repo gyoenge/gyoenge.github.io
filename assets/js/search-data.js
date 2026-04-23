@@ -79,43 +79,43 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-oop-course-c-team-project",
-          title: 'OOP Course C++ Team Project',
+          section: "News",},{id: "projects-team-project-c-object-oriented-programming",
+          title: '[Team Project] C++ Object Oriented Programming',
           description: "A smart refrigerator management and recipe recommendation system in C++, demonstrating object-oriented programming principles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_course_oopcpp/";
-            },},{id: "projects-safety-detection-with-grounding-dino",
-          title: 'Safety Detection with Grounding DINO',
+            },},{id: "projects-safety-situation-detection-with-grounding-dino",
+          title: 'Safety Situation Detection with Grounding DINO',
           description: "An AI-powered safety alert system, which analyzes CCTV to detect dangers and alerts users via a mobile application, utilizing Grounding DINO model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_netchallenge/";
-            },},{id: "projects-ping-pong-robot-vision-system",
-          title: 'Ping-pong Robot Vision System',
+            },},{id: "projects-ping-pong-robot-ball-detection-vision-system",
+          title: 'Ping-pong Robot Ball Detection Vision System',
           description: "We utilized OpenCV for its stereo vision system, a trajectory approximation algorithm for prediction, and a multiprocessing architecture to enable a fast response",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023_pingpongrobot/";
-            },},{id: "projects-ai4good-team-hackathon",
-          title: 'AI4Good Team Hackathon',
+            },},{id: "projects-ai4good-team-hackathon-ppt2braille-idea",
+          title: 'AI4Good Team Hackathon PPT2Braille Idea',
           description: "Assistive learning tool prototype that improves graphic accessibility for the visually impaired by converting elements from PPT slides (figures, texts, diagrams) into a Braille pad",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_ai4good/";
-            },},{id: "projects-comp-system-course-team-project",
-          title: 'Comp System Course Team Project',
+            },},{id: "projects-team-project-computer-system-with-cloud-infra",
+          title: '[Team Project] Computer System with Cloud Infra',
           description: "An educational project demonstrating cloud computer system concepts in Kubernetes by building and deploying a full-stack AI application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_compsys/";
-            },},{id: "projects-deep-learning-course-team-project",
-          title: 'Deep Learning Course Team Project',
+            },},{id: "projects-team-project-deep-learning-application",
+          title: '[Team Project] Deep Learning Application',
           description: "A mobile application that uses a two-stage deep learning pipeline to detect meat in an image and classify its level of doneness",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_dl/";
-            },},{id: "projects-machine-learning-course-project",
-          title: 'Machine Learning Course Project',
+            },},{id: "projects-individual-task-machine-learning",
+          title: '[Individual Task] Machine Learning',
           description: "Implementation of Support Vector Machines (SVM) from scratch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024_course_ml/";
-            },},{id: "projects-computer-vision-course-project",
-          title: 'Computer Vision Course Project',
+            },},{id: "projects-individual-task-computer-vision",
+          title: '[Individual Task] Computer Vision',
           description: "Implementation of Robust Photometric Stereo, Structure From Motion, Supervised Depth Refinement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_course_cv/";
@@ -124,13 +124,13 @@ ninja.data = [{
           description: "EpiAgent AD(Alzheimer Disease) Insilico task. Cell-type–aware extension of EpiAgent with LoRA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_dmcb_epiagent/";
-            },},{id: "projects-k-tour-memory-generate-studio",
-          title: 'K-Tour Memory Generate Studio',
+            },},{id: "projects-k-tour-memory-souvenir-studio",
+          title: 'K-Tour Memory Souvenir Studio',
           description: "A generative AI service that produces personalized souvenirs using elements of Korean tradition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_ktourmemory/";
-            },},{id: "projects-vision-language-model-for-multiple-choice-vqa",
-          title: 'Vision-Language Model for Multiple-choice VQA',
+            },},{id: "projects-vision-language-model-for-multi-choice-question-answering",
+          title: 'Vision-Language Model for Multi-Choice Question Answering',
           description: "DACON 2025 Samsung Collegiate Programming Challenge AI (Developing a multimodal AI model to understand everyday photos in smartphone user galleries)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025_scpcdacon/";
