@@ -5,7 +5,7 @@ description: A mobile application that uses a two-stage deep learning pipeline t
 img: assets/img/projects/2024_coursedl_mainimg.png
 # importance: 2
 # category: 2024
-importance: 5
+importance: 4
 category: "Course Term Project"
 related_publications: false
 ---

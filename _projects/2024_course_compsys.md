@@ -5,7 +5,7 @@ description: An educational project demonstrating cloud computer system concepts
 img: assets/img/projects/2024_coursecompsys_mainimg.png
 # importance: 4
 # category: 2024
-importance: 4
+importance: 3
 category: "Course Term Project"
 related_publications: false
 ---
