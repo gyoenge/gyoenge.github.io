@@ -59,13 +59,13 @@ This experience provided valuable insights into the intersection of psychology, 
 
 <div class="row mt-3 flex-nowrap">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_1.jpeg" class="img-fluid rounded z-depth-1" style="height:250px" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_2.jpeg" class="img-fluid rounded z-depth-1" style="height:250px" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_3.jpeg" class="img-fluid rounded z-depth-1" style="height:250px" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
 </div>
 
@@ -80,13 +80,13 @@ I experienced a variety of neighborhoods, each with its own unique cultural atmo
 
 <div class="row mt-3 flex-nowrap">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_1.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_2.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -98,13 +98,13 @@ This experience helped me better understand the technological ecosystem that dri
 
 <div class="row mt-3 flex-nowrap">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_1.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_2.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_3.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -117,24 +117,24 @@ These experiences highlighted both the dynamic city life and the diverse natural
 
 <div class="row mt-3 flex-nowrap">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_1.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_3.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row mt-3 flex-nowrap">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_4.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_5.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_5.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_6.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_6.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -150,13 +150,13 @@ This experience allowed me to appreciate not only urban entertainment but also t
 
 <div class="row mt-3 flex-nowrap">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_1.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_2.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_3.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
