@@ -90,15 +90,35 @@ Through theoretical and applied exercises, I developed strong problem-solving sk
 
 ### TAVE (Univ-wide IT Club), Team MediVision
 
-- Participated in a university-wide IT club, TAVE, as a member of Team MediVision.
-- Worked on projects related to medical AI and computer vision.
-- Collaborated with team members to develop practical solutions and share technical knowledge.
+As a member of TAVE, a university-wide IT club, I participated in Team MediVision, where I worked on projects focused on medical AI and computer vision. Through these projects, I explored how machine learning techniques can be applied to healthcare-related problems, gaining hands-on experience in model development and data analysis. I also collaborated closely with team members to design practical solutions, exchange technical knowledge, and strengthen my ability to work effectively in a team-based development environment. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_tave_1.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_tave_2.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_tave_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+</div>
 
 ### Building Friendships with International Students
 
-- Interacted with international students from diverse cultural backgrounds.
-- Built meaningful friendships through academic and social activities.
-- Gained new perspectives by engaging in cross-cultural communication.
+During my time abroad, I built meaningful connections with students from diverse cultural backgrounds, including a close friendship with Sarah, who is from Jordan. Through both academic collaboration and social activities, I had the opportunity to engage with peers from around the world. These interactions helped me develop cross-cultural communication skills and gain new perspectives, enriching my overall experience both personally and academically. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_sara_1.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_sara_2.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_sara_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+</div>
 
 ---
 
@@ -106,12 +126,8 @@ Through theoretical and applied exercises, I developed strong problem-solving sk
 
 ### Food Exploration near Campus
 
-- Explored various restaurants and cafes around the campus.
-- Tried a wide range of local Korean dishes and street food.
-- Enjoyed discovering hidden spots frequently visited by students.
+During my daily life, I explored a variety of restaurants and cafes around the campus, discovering places popular among students. I had the opportunity to try a wide range of local Korean dishes as well as casual street food, which allowed me to experience the richness of everyday food culture. Through these visits, I also enjoyed finding hidden spots that added a sense of familiarity and enjoyment to my routine.
 
 ### Exploring Seoul
 
-- Visited major landmarks and neighborhoods across Seoul.
-- Experienced the city's diverse culture, from traditional sites to modern districts.
-- Gained a deeper understanding of everyday life and urban culture in Korea.
+In addition to campus life, I spent time exploring different areas of Seoul, visiting major landmarks and diverse neighborhoods across the city. From traditional cultural sites to modern urban districts, I was able to experience the dynamic contrast that defines Seoul. These experiences helped me gain a deeper understanding of daily life and urban culture in Korea, broadening my perspective beyond the academic environment.
