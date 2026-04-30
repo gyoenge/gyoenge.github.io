@@ -35,6 +35,18 @@ Academically, I also achieved meaningful progress. I mainly took major-related c
 
 Overall, I actively engaged in both academic and extracurricular activities, gaining new perspectives and experiencing significant personal growth.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_overview_1.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_overview_2.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/ku/ku_overview_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+</div>
+
 ---
 
 ## Academic Experience
