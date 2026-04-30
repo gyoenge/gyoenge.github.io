@@ -57,15 +57,15 @@ In the Computational Models of Cognition course, I explored how human cognition 
 I learned key concepts related to decision-making, learning processes, and cognitive architectures, gaining a deeper understanding of how the human mind can be modeled mathematically.
 This experience provided valuable insights into the intersection of psychology, neuroscience, and artificial intelligence, broadening my perspective on intelligent systems and human behavior.
 
-<div class="row mt-3 flex-nowrap">
+<div class="row mt-3 flex-nowrap" style="width:100%; overflow-x:auto;">
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
 </div>
 
@@ -78,15 +78,15 @@ This experience provided valuable insights into the intersection of psychology, 
 During my visit to San Francisco, I explored iconic landmarks such as Golden Gate Bridge and Fisherman's Wharf.
 I experienced a variety of neighborhoods, each with its own unique cultural atmosphere, and enjoyed the distinctive blend of urban energy and coastal scenery that defines the city.
 
-<div class="row mt-3 flex-nowrap">
+<div class="row mt-3 flex-nowrap" style="width:100%; overflow-x:auto;">
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
 </div>
 
@@ -96,15 +96,15 @@ In San Jose, I explored the heart of Silicon Valley and visited areas closely co
 Compared to San Francisco, the environment felt quieter and more suburban, which provided a different perspective on daily life in the region.
 This experience helped me better understand the technological ecosystem that drives innovation in the area.
 
-<div class="row mt-3 flex-nowrap">
+<div class="row mt-3 flex-nowrap" style="width:100%; overflow-x:auto;">
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
 </div>
 
@@ -115,26 +115,26 @@ I also had the opportunity to watch a live baseball game of the Los Angeles Dodg
 In addition, I visited Joshua Tree National Park, where I explored its unique desert landscapes characterized by distinctive rock formations and Joshua trees.
 These experiences highlighted both the dynamic city life and the diverse natural environments surrounding Los Angeles.
 
-<div class="row mt-3 flex-nowrap">
+<div class="row mt-3 flex-nowrap" style="width:100%; overflow-x:auto;">
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
 </div>
-<div class="row mt-3 flex-nowrap">
+<div class="row mt-3 flex-nowrap" style="width:100%; overflow-x:auto;">
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_4.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_4.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_5.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_5.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_6.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_6.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
 </div>
 
@@ -148,15 +148,15 @@ I visited Grand Canyon, where I was able to witness its vast scale and dramatic 
 I also explored Horseshoe Bend, where the Colorado River curves around a massive rock formation, offering a breathtaking panoramic view.
 This experience allowed me to appreciate not only urban entertainment but also the grandeur of natural landscapes.
 
-<div class="row mt-3 flex-nowrap">
+<div class="row mt-3 flex-nowrap" style="width:100%; overflow-x:auto;">
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_2.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
     <div class="col-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px; object-fit:cover;" %}
     </div>
 </div>
 
