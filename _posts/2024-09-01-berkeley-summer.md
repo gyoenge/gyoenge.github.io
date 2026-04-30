@@ -58,13 +58,13 @@ I learned key concepts related to decision-making, learning processes, and cogni
 This experience provided valuable insights into the intersection of psychology, neuroscience, and artificial intelligence, broadening my perspective on intelligent systems and human behavior.
 
 <div class="row mt-3 flex-nowrap">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_1.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_2.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_3.jpg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
 </div>
@@ -79,13 +79,13 @@ During my visit to San Francisco, I explored iconic landmarks such as Golden Gat
 I experienced a variety of neighborhoods, each with its own unique cultural atmosphere, and enjoyed the distinctive blend of urban energy and coastal scenery that defines the city.
 
 <div class="row mt-3 flex-nowrap">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanfran_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -97,13 +97,13 @@ Compared to San Francisco, the environment felt quieter and more suburban, which
 This experience helped me better understand the technological ecosystem that drives innovation in the area.
 
 <div class="row mt-3 flex-nowrap">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/sanjose_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -116,24 +116,24 @@ In addition, I visited Joshua Tree National Park, where I explored its unique de
 These experiences highlighted both the dynamic city life and the diverse natural environments surrounding Los Angeles.
 
 <div class="row mt-3 flex-nowrap">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row mt-3 flex-nowrap">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_5.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/la_6.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -149,13 +149,13 @@ I also explored Horseshoe Bend, where the Colorado River curves around a massive
 This experience allowed me to appreciate not only urban entertainment but also the grandeur of natural landscapes.
 
 <div class="row mt-3 flex-nowrap">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-auto mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/lasvegas_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
