@@ -99,7 +99,6 @@ I experienced a variety of neighborhoods, each with its own unique cultural atmo
     </div>
 </div>
 
-
 ### San Jose
 
 In San Jose, I explored the heart of Silicon Valley and visited areas closely connected to the tech industry.
