@@ -90,7 +90,7 @@ Through theoretical and applied exercises, I developed strong problem-solving sk
 
 ### TAVE (Univ-wide IT Club), Team MediVision
 
-As a member of TAVE, a university-wide IT club, I participated in Team MediVision, where I worked on projects focused on medical AI and computer vision. Through these projects, I explored how machine learning techniques can be applied to healthcare-related problems, gaining hands-on experience in model development and data analysis. I also collaborated closely with team members to design practical solutions, exchange technical knowledge, and strengthen my ability to work effectively in a team-based development environment. 
+As a member of TAVE, a university-wide IT club, I participated in Team MediVision, where I worked on projects focused on medical AI and computer vision. Through these projects, I explored how machine learning techniques can be applied to healthcare-related problems, gaining hands-on experience in model development and data analysis. I also collaborated closely with team members to design practical solutions, exchange technical knowledge, and strengthen my ability to work effectively in a team-based development environment.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -106,7 +106,7 @@ As a member of TAVE, a university-wide IT club, I participated in Team MediVisio
 
 ### Building Friendships with International Students
 
-During my time abroad, I built meaningful connections with students from diverse cultural backgrounds, including a close friendship with Sarah, who is from Jordan. Through both academic collaboration and social activities, I had the opportunity to engage with peers from around the world. These interactions helped me develop cross-cultural communication skills and gain new perspectives, enriching my overall experience both personally and academically. 
+During my time abroad, I built meaningful connections with students from diverse cultural backgrounds, including a close friendship with Sarah, who is from Jordan. Through both academic collaboration and social activities, I had the opportunity to engage with peers from around the world. These interactions helped me develop cross-cultural communication skills and gain new perspectives, enriching my overall experience both personally and academically.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
