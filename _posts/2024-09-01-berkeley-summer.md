@@ -59,19 +59,19 @@ This experience provided valuable insights into the intersection of psychology, 
 
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_1.jpeg" class="img-fluid rounded z-depth-1" style="width:100%; height:250px; object-fit:cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_1.jpeg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_2.jpeg" class="img-fluid rounded z-depth-1" style="width:100%; height:250px; object-fit:cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_2.jpeg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_3.jpeg" class="img-fluid rounded z-depth-1" style="width:100%; height:250px; object-fit:cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_3.jpeg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_4.jpeg" class="img-fluid rounded z-depth-1" style="width:100%; height:250px; object-fit:cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_cog_4.jpeg" class="img-fluid rounded z-depth-1" style="height:250px" %}
     </div>
 </div>
 
