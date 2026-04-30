@@ -17,7 +17,10 @@ toc:
       - name: San Jose
       - name: Los Angeles
       - name: Las Vegas
-  - name: Special Insights
+  - name: Campus Life 
+    subsections:
+      - name: Life at UC Berkeley
+      - name: Around Campus
 ---
 
 ## Overview
@@ -175,8 +178,37 @@ This experience allowed me to appreciate not only urban entertainment but also t
 
 ---
 
-## Special Insights
+## Campus Life 
 
-- Recorded daily experiences through photos and short notes.
-- Explored various restaurants and cafes near campus, experiencing local food culture.
-- Traveled across different cities in California, documenting memorable moments and personal reflections.
+### Life at UC Berkeley
+
+During my time at UC Berkeley, I experienced various aspects of campus life by exploring key facilities and landmarks. I visited the iconic Sather Tower (Campanile), toured the university libraries, and spent time at the recreational sports center. I also explored the campus souvenir shops and walked through the Berkeley Botanical Garden, appreciating its diverse collection of plants. In addition, I regularly tried meals at campus dining halls, which gave me a glimpse into everyday student life and the university’s vibrant atmosphere. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/campus_1.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/campus_2.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/campus_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+</div>
+
+
+### Around Campus
+
+Around the campus, I explored a variety of local restaurants and cafes, experiencing Berkeley’s diverse food culture. I visited popular spots such as bubble tea shops and hot dog stands, as well as unique places like independent bookstores and record shops. These experiences allowed me to engage with the local community and discover the creative and eclectic character of the area surrounding the university.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/nearby_1.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/nearby_2.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/nearby_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+</div>
