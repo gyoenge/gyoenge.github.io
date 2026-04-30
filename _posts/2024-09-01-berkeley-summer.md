@@ -17,7 +17,7 @@ toc:
       - name: San Jose
       - name: Los Angeles
       - name: Las Vegas
-  - name: Campus Life 
+  - name: Campus Life
     subsections:
       - name: Life at UC Berkeley
       - name: Around Campus
@@ -65,7 +65,6 @@ Through problem sets and real-world applications, I was able to apply theoretica
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_game_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
     </div>
 </div>
-
 
 ### Computational Models of Cognition
 
@@ -178,11 +177,11 @@ This experience allowed me to appreciate not only urban entertainment but also t
 
 ---
 
-## Campus Life 
+## Campus Life
 
 ### Life at UC Berkeley
 
-During my time at UC Berkeley, I experienced various aspects of campus life by exploring key facilities and landmarks. I visited the iconic Sather Tower (Campanile), toured the university libraries, and spent time at the recreational sports center. I also explored the campus souvenir shops and walked through the Berkeley Botanical Garden, appreciating its diverse collection of plants. In addition, I regularly tried meals at campus dining halls, which gave me a glimpse into everyday student life and the university’s vibrant atmosphere. 
+During my time at UC Berkeley, I experienced various aspects of campus life by exploring key facilities and landmarks. I visited the iconic Sather Tower (Campanile), toured the university libraries, and spent time at the recreational sports center. I also explored the campus souvenir shops and walked through the Berkeley Botanical Garden, appreciating its diverse collection of plants. In addition, I regularly tried meals at campus dining halls, which gave me a glimpse into everyday student life and the university’s vibrant atmosphere.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -195,7 +194,6 @@ During my time at UC Berkeley, I experienced various aspects of campus life by e
         {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/campus_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
     </div>
 </div>
-
 
 ### Around Campus
 
