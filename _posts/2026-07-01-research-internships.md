@@ -25,6 +25,18 @@ By actively participating in weekly lab meetings and iteratively developing rese
 
 Overall, this period marked a **significant phase of both academic and personal growth**.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/aimed_dmcb/aimed_dmcb_1.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/aimed_dmcb/aimed_dmcb_2.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/aimed_dmcb/aimed_dmcb_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+</div>
+
 ---
 
 ## GIST AI-MED Lab
