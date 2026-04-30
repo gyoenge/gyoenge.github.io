@@ -51,6 +51,19 @@ In the Game Theory course, I studied fundamental concepts such as strategic deci
 I learned how to analyze interactions between rational agents in both competitive and cooperative settings, developing a structured approach to understanding complex decision-making scenarios.
 Through problem sets and real-world applications, I was able to apply theoretical concepts to practical situations, strengthening my analytical and reasoning skills.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_game_1.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_game_2.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/berkeley/course_game_3.jpg" class="img-fluid rounded z-depth-1" style="width:33%; object-fit:cover;" %}
+    </div>
+</div>
+
+
 ### Computational Models of Cognition
 
 In the Computational Models of Cognition course, I explored how human cognition can be represented using computational and probabilistic frameworks.
