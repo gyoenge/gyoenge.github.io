@@ -29,7 +29,6 @@ Overall, this period marked a **significant phase of both academic and personal 
 
 ## GIST AI-MED Lab
 
-
 At the GIST AI-MED Lab (Sep 2025 – Present), I have been conducting research in Medical AI with a focus on computational pathology and multimodal representation learning. I developed **RaPaCL-ST (RadiomicsFeature-Pathomics Contrastive Learning)**, a multimodal framework designed for spatial transcriptomics prediction. This work aimed to bridge handcrafted radiomics features and deep pathomics features extracted from histopathology images. By leveraging contrastive learning, I aligned interpretable radiomics signals—such as texture and heterogeneity—with high-dimensional image embeddings in a shared latent space, improving both the biological relevance and interpretability of learned representations for downstream tasks like spatial gene expression prediction. Through this work, I gained hands-on experience in model design, multimodal learning, and research-driven problem solving.
 
 ---
