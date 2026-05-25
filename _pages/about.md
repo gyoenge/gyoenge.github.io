@@ -29,6 +29,7 @@ I really enjoy deeply exploring problems and understanding them at a fundamental
 **Research Interests**
 
 <!-- Computer Vision · Medical AI · Multimodal Representation Learning · Explainable AI -->
+
 Computer Vision · Medical AI · Multimodal · Representation Learning · Foundation Model Application
 
 **Teck Stack**
