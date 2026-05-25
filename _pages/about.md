@@ -28,7 +28,8 @@ I really enjoy deeply exploring problems and understanding them at a fundamental
 
 **Research Interests**
 
-Computer Vision · Medical AI · Multimodal Representation Learning · Explainable AI
+<!-- Computer Vision · Medical AI · Multimodal Representation Learning · Explainable AI -->
+Computer Vision · Medical AI · Multimodal · Representation Learning · Foundation Model Application
 
 **Teck Stack**
 
@@ -50,9 +51,9 @@ Computer Vision · Medical AI · Multimodal Representation Learning · Explainab
     <td style="background-color:#ffffff; border:1px solid #d0d7de; padding:8px 10px; vertical-align:middle;">
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
       <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" style="margin:2px 4px 2px 0; vertical-align:middle;" />
-      <img src="https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=huggingface&logoColor=white" style="margin:2px 0 2px 0; vertical-align:middle;" />
     </td>
   </tr>
 
@@ -64,6 +65,7 @@ Computer Vision · Medical AI · Multimodal Representation Learning · Explainab
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
       <img src="https://img.shields.io/badge/Image%20Processing-4A90E2?logoColor=white">
       <img src="https://img.shields.io/badge/Medical%20Data-009688?logoColor=white">
+      <img src="https://img.shields.io/badge/Hugging%20Face-FF9A00?logo=huggingface&logoColor=white" style="margin:2px 0 2px 0; vertical-align:middle;" />
       <!-- OpenCV · Image Processing · Medical Data Processing -->
     </td>
   </tr>
