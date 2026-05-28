@@ -45,5 +45,4 @@ To address the high heterogeneity of brain cell populations, I designed a framew
 
 Through this work, I gained hands-on experience in adapting foundation model frameworks to new biomedical domains, handling high-dimensional single-cell biological data, and designing domain-specific model extensions for complex heterogeneous systems.
 
-
 ---
